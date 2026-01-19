@@ -61,7 +61,7 @@ Este caso de uso describe la funcionalidad que permite centralizar y gestionar a
 
 ### 🔗 Casos de Uso Relacionados
 * [CU-008-EST-VIAC](02%20Casos%20de%20uso/CU-008-EST-VIAC.md)
-* [CU-034-Camiones](CU-034-Camiones.md)
+* [CU-034-CAM-DASH](02%20Casos%20de%20uso/CU-034-Camiones.md)
 * [CU-047-ALIA-COND](02%20Casos%20de%20uso/CU-047-ALIA-COND.md)
 * [CU-048-ALIA-BANC](02%20Casos%20de%20uso/CU-048-ALIA-BANC.md)
 * [CU-046-ALIA-DETA](02%20Casos%20de%20uso/CU-046-ALIA-DETA.md)

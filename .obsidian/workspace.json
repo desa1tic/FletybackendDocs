@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Casos de uso/CU-034-Camiones.md",
+                "file": "02 Casos de uso/CU-045-Aliados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CU-034-Camiones"
+              "title": "CU-045-Aliados"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "d009076928b14487",
   "lastOpenFiles": [
-    "02 Casos de uso/CU-035-CAM-DOCU.md",
+    "02 Casos de uso/CU-046-ALIA-DETA.md",
     "02 Casos de uso/CU-034-Camiones.md",
+    "02 Casos de uso/CU-045-Aliados.md",
+    "02 Casos de uso/CU-035-CAM-DOCU.md",
     "Casos de Uso - Camiones.md",
     "02 Casos de uso/Casos de Uso.md",
-    "02 Casos de uso/CU-045-Aliados.md",
     "02 Casos de uso/CU-048-ALIA-BANC.md",
-    "02 Casos de uso/CU-046-ALIA-DETA.md",
     "02 Casos de uso/CU-047-ALIA-COND.md",
     "02 Casos de uso/CU-042-Corporativo.md",
     "02 Casos de uso/CU-044-CORP-SOLC.md",

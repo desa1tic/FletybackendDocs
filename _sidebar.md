@@ -50,7 +50,7 @@
       * [CU-047-ALIA-COND](02%20Casos%20de%20uso/CU-047-ALIA-COND.md)
       * [CU-048-ALIA-BANC](02%20Casos%20de%20uso/CU-048-ALIA-BANC.md)
       * [CU-046-ALIA-DETA](02%20Casos%20de%20uso/CU-046-ALIA-DETA.md)
-    * [🚛 Camiones (CU-035)](02%20Casos%20de%20uso/CU-035-Camiones.md)
+    * [🚛 Camiones (CU-034)](02%20Casos%20de%20uso/CU-034-Camiones.md)
 
 * **APIs**
   * [Diseño y Documentación](03%20API's/Diseño%20y%20Documentación%20de%20API’s.md)
