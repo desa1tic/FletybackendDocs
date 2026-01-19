@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Casos de uso/CU-035-CAM-DOCU.md",
+                "file": "02 Casos de uso/CU-041-USU-BLUS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CU-035-CAM-DOCU"
+              "title": "CU-041-USU-BLUS"
             }
           }
         ]
@@ -185,10 +185,22 @@
   },
   "active": "d6960660b53f8de6",
   "lastOpenFiles": [
+    "02 Casos de uso/CU-042-USU-MAP.md",
+    "02 Casos de uso/CU-038-USU-HIST.md",
+    "02 Casos de uso/CU-037-USU-EDIT.md",
+    "02 Casos de uso/CU-035-CAM-DOCU.md",
+    "02 Casos de uso/CU-040-USU-UDOC.md",
+    "02 Casos de uso/CU-039-USU-HIRF.md",
+    "02 Casos de uso/CU-041-USU-BLUS.md",
+    "02 Casos de uso/CU-036-USU-DASH.md",
     "02 Casos de uso/CU-034-CAM-DASH.md",
     "02 Casos de uso/CU-32-CON-FACT.md",
-    "02 Casos de uso/CU-31-CON-MAPV.md",
     "02 Casos de uso/CU-030-CON-DCVH.md",
+    "02 Casos de uso/CU-31-CON-MAPV.md",
+    "_sidebar.md",
+    "02 Casos de uso/CU-001-Usuarios.md",
+    "02 Casos de uso/CU-003-Registrar de Usuario.md",
+    "02 Casos de uso/Casos de Uso.md",
     "02 Casos de uso/CU-029-CON-EDVH.md",
     "02 Casos de uso/CU-028-CON-NPRO.md",
     "02 Casos de uso/CU-027-CON-APRO.md",
@@ -198,19 +210,7 @@
     "02 Casos de uso/CU-023-CON-VEHÍ.md",
     "02 Casos de uso/CU-022-CON-PERF.md",
     "02 Casos de uso/CU-021-Conductor.md",
-    "02 Casos de uso/Casos de Uso.md",
-    "02 Casos de uso/CU-035-CAM-DOCU.md",
-    "_sidebar.md",
     "02 Casos de uso/CU-021-CON-ENLI.md",
-    "02 Casos de uso/CU-017-Mapas.md",
-    "02 Casos de uso/CU-018-MAP-MAC.md",
-    "02 Casos de uso/CU-019-MAP-SEGC.md",
-    "02 Casos de uso/CU-020-MAP-CIUD.md",
-    "02 Casos de uso/CU-015-MAP.md",
-    "02 Casos de uso/CU-016-EDV.md",
-    "02 Casos de uso/CU-010-EST-HIT.md",
-    "02 Casos de uso/CU-008-EST-VIAC.md",
-    "02 Casos de uso/CU-007-EST-VIAA.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",
