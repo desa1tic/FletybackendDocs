@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6960660b53f8de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Casos de uso/Casos de Uso.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Casos de Uso"
-            }
-          },
-          {
-            "id": "36c8f88db919e9af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Casos de uso/CU-042-Corporativo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CU-042-Corporativo"
-            }
-          },
-          {
             "id": "117da9aa9dd99dd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Casos de uso/CU-044-CORP-SOLC.md",
+                "file": "02 Casos de uso/CU-045-Aliados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CU-044-CORP-SOLC"
+              "title": "CU-045-Aliados"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,11 +185,15 @@
   },
   "active": "117da9aa9dd99dd1",
   "lastOpenFiles": [
-    "02 Casos de uso/CU-044-CORP-SOLC.md",
+    "02 Casos de uso/Casos de Uso.md",
+    "02 Casos de uso/CU-045-Aliados.md",
+    "02 Casos de uso/CU-048-ALIA-BANC.md",
+    "02 Casos de uso/CU-046-ALIA-DETA.md",
+    "02 Casos de uso/CU-047-ALIA-COND.md",
     "02 Casos de uso/CU-042-Corporativo.md",
+    "02 Casos de uso/CU-044-CORP-SOLC.md",
     "02 Casos de uso/CU-041-USU-BLUS.md",
     "02 Casos de uso/CU-043-CORP-EDIT.md",
-    "02 Casos de uso/Casos de Uso.md",
     "02 Casos de uso/CU-042-USU-MAP.md",
     "02 Casos de uso/CU-036-USU-DASH.md",
     "02 Casos de uso/CU-038-USU-HIST.md",
@@ -236,10 +211,6 @@
     "02 Casos de uso/CU-029-CON-EDVH.md",
     "02 Casos de uso/CU-028-CON-NPRO.md",
     "02 Casos de uso/CU-027-CON-APRO.md",
-    "02 Casos de uso/CU-026-CON-DOC.md",
-    "02 Casos de uso/CU-025-CON-HISR.md",
-    "02 Casos de uso/CU-024-CON-HIST.md",
-    "02 Casos de uso/CU-023-CON-VEHÍ.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",

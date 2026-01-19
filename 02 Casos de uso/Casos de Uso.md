@@ -11,7 +11,7 @@
         
     - [🚛 Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-Conductor.md)
         
-    - [[Casos de Uso - Aliados|🤝 Aliados]]
+    -  [🤝 Aliados (CU-045)](02%20Casos%20de%20uso/CU-045-Aliados.md)
         
     - [[CU-042-Corporativo|🏢 Corporativo]]
         
