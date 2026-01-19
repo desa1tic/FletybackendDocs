@@ -51,6 +51,13 @@
       * [CU-048-ALIA-BANC](02%20Casos%20de%20uso/CU-048-ALIA-BANC.md)
       * [CU-046-ALIA-DETA](02%20Casos%20de%20uso/CU-046-ALIA-DETA.md)
     * [🚛 Camiones (CU-034)](02%20Casos%20de%20uso/CU-034-Camiones.md)
+    * [🛠️ Tipo de Servicios (CU-049)](02%20Casos%20de%20uso/CU-049-Tipo%Servicio.md)
+      * [CU-050-SERV-EDIT](02%20Casos%20de%20uso/CU-050-SERV-EDIT.md)
+      * [CU-051-SERV-NWTS](02%20Casos%20de%20uso/CU-051-SERV-NWTS.md)
+      * [CU-051-SERV-PAIS](02%20Casos%20de%20uso/CU-052-SERV-PAIS.md)
+      * [CU-055-SERV-CITY](02%20Casos%20de%20uso/CU-055-SERV-CITY.md)
+      * [CU-058-SERV-TARF](02%20Casos%20de%20uso/CU-058-SERV-TARF.md)
+      * [CU-061-SERV-CAPC](02%20Casos%20de%20uso/CU-061-SERV-CAPC.md)
 
 * **APIs**
   * [Diseño y Documentación](03%20API's/Diseño%20y%20Documentación%20de%20API’s.md)

@@ -3,7 +3,7 @@
     
     - [[Casos de Uso - Ajustes|⚙️ Ajustes]]
         
-    - [[Casos de Uso - Tipo Servicio|🛠️ Tipo de Servicio]]
+    - [[CU-049-Tipo Servicio|🛠️ Tipo de Servicio]]
         
 - **Gestión de Usuarios y Actores**
     
@@ -17,7 +17,7 @@
         
 - **Operaciones y Logística**
     
-    - [[Casos de Uso - Camiones|🚚 Camiones]]
+    - [🚛 Camiones (CU-034)](02%20Casos%20de%20uso/CU-034-Camiones.md)
         
     - [[CU-017-Mapas|📍 Mapas]]
         

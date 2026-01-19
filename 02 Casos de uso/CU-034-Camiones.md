@@ -56,4 +56,4 @@ Este caso de uso describe la funcionalidad que permite al usuario visualizar, fi
 
 ### 🔗 Casos de Uso Relacionados
 * [CU-035-CAM-DOCU](02%20Casos%20de%20uso/CU-035-CAM-DOCU.md)
-* [CU-030-CON-EDVH](02%20Casos%20de%20uso/CU-030-CON-EDVH.md)
+* [CU-030-CON-EDVH](02%20Casos%20de%20uso/CU-030-CON-DCVH.md)

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "134a8abebcad54a7",
+        "id": "2d7564cf1f4338a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d009076928b14487",
+            "id": "8732ab8e1af3fea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Casos de uso/CU-045-Aliados.md",
+                "file": "02 Casos de uso/CU-064-SERV-MOD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CU-045-Aliados"
+              "title": "CU-064-SERV-MOD"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 210.5
   },
   "right": {
     "id": "4633fee13480926c",
@@ -183,34 +183,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "d009076928b14487",
+  "active": "8732ab8e1af3fea6",
   "lastOpenFiles": [
-    "02 Casos de uso/CU-046-ALIA-DETA.md",
-    "02 Casos de uso/CU-034-Camiones.md",
-    "02 Casos de uso/CU-045-Aliados.md",
-    "02 Casos de uso/CU-035-CAM-DOCU.md",
-    "Casos de Uso - Camiones.md",
+    "02 Casos de uso/CU-066-SERV-MOED.md",
+    "02 Casos de uso/CU-064-SERV-MOD.md",
+    "02 Casos de uso/CU-065-SERV-NWMO.md",
     "02 Casos de uso/Casos de Uso.md",
-    "02 Casos de uso/CU-048-ALIA-BANC.md",
-    "02 Casos de uso/CU-047-ALIA-COND.md",
-    "02 Casos de uso/CU-042-Corporativo.md",
-    "02 Casos de uso/CU-044-CORP-SOLC.md",
-    "02 Casos de uso/CU-041-USU-BLUS.md",
-    "02 Casos de uso/CU-043-CORP-EDIT.md",
-    "02 Casos de uso/CU-042-USU-MAP.md",
-    "02 Casos de uso/CU-036-USU-DASH.md",
-    "02 Casos de uso/CU-038-USU-HIST.md",
-    "02 Casos de uso/CU-037-USU-EDIT.md",
-    "02 Casos de uso/CU-040-USU-UDOC.md",
-    "02 Casos de uso/CU-039-USU-HIRF.md",
-    "02 Casos de uso/CU-32-CON-FACT.md",
+    "02 Casos de uso/CU-061-SERV-CAPC.md",
+    "02 Casos de uso/CU-063-SERV-CPED.md",
+    "02 Casos de uso/CU-062-SERV-NWCP.md",
+    "02 Casos de uso/CU-060-SERV-NWTA.md",
+    "02 Casos de uso/CU-058-SERV-TARF.md",
+    "02 Casos de uso/CU-059-SERV-TAED.md",
+    "02 Casos de uso/CU-057-SERV-NWCY.md",
+    "02 Casos de uso/CU-055-SERV-CITY.md",
+    "02 Casos de uso/CU-056-SERV-EDCY.md",
+    "02 Casos de uso/CU-052-SERV-PAÍS.md",
+    "02 Casos de uso/CU-054-SERV-NWPA.md",
+    "02 Casos de uso/CU-052-SERV-PAIS.md",
+    "02 Casos de uso/CU-053-SERV-PAED.md",
+    "02 Casos de uso/CU-049-Tipo Servicio.md",
+    "02 Casos de uso/CU-051-SERV-NWTS.md",
+    "02 Casos de uso/CU-050-SERV-EDIT.md",
     "02 Casos de uso/CU-030-CON-DCVH.md",
-    "02 Casos de uso/CU-31-CON-MAPV.md",
-    "_sidebar.md",
-    "02 Casos de uso/CU-001-Usuarios.md",
-    "02 Casos de uso/CU-003-Registrar de Usuario.md",
-    "02 Casos de uso/CU-029-CON-EDVH.md",
-    "02 Casos de uso/CU-028-CON-NPRO.md",
+    "02 Casos de uso/CU-034-Camiones.md",
+    "02 Casos de uso/CU-035-CAM-DOCU.md",
+    "02 Casos de uso/CU-030-CON-EDVH.md",
+    "02 Casos de uso/CU-047-ALIA-COND.md",
+    "02 Casos de uso/CU-048-ALIA-BANC.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",
