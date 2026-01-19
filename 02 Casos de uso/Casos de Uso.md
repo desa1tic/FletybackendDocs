@@ -13,7 +13,7 @@
         
     - [[Casos de Uso - Aliados|🤝 Aliados]]
         
-    - [[Casos de Uso - Corporativo|🏢 Corporativo]]
+    - [[CU-042-Corporativo|🏢 Corporativo]]
         
 - **Operaciones y Logística**
     

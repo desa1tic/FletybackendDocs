@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Casos de uso/CU-041-USU-BLUS.md",
+                "file": "02 Casos de uso/Casos de Uso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CU-041-USU-BLUS"
+              "title": "Casos de Uso"
+            }
+          },
+          {
+            "id": "36c8f88db919e9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Casos de uso/CU-042-Corporativo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CU-042-Corporativo"
+            }
+          },
+          {
+            "id": "117da9aa9dd99dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Casos de uso/CU-044-CORP-SOLC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CU-044-CORP-SOLC"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,16 +212,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6960660b53f8de6",
+  "active": "117da9aa9dd99dd1",
   "lastOpenFiles": [
+    "02 Casos de uso/CU-044-CORP-SOLC.md",
+    "02 Casos de uso/CU-042-Corporativo.md",
+    "02 Casos de uso/CU-041-USU-BLUS.md",
+    "02 Casos de uso/CU-043-CORP-EDIT.md",
+    "02 Casos de uso/Casos de Uso.md",
     "02 Casos de uso/CU-042-USU-MAP.md",
+    "02 Casos de uso/CU-036-USU-DASH.md",
     "02 Casos de uso/CU-038-USU-HIST.md",
     "02 Casos de uso/CU-037-USU-EDIT.md",
     "02 Casos de uso/CU-035-CAM-DOCU.md",
     "02 Casos de uso/CU-040-USU-UDOC.md",
     "02 Casos de uso/CU-039-USU-HIRF.md",
-    "02 Casos de uso/CU-041-USU-BLUS.md",
-    "02 Casos de uso/CU-036-USU-DASH.md",
     "02 Casos de uso/CU-034-CAM-DASH.md",
     "02 Casos de uso/CU-32-CON-FACT.md",
     "02 Casos de uso/CU-030-CON-DCVH.md",
@@ -200,7 +233,6 @@
     "_sidebar.md",
     "02 Casos de uso/CU-001-Usuarios.md",
     "02 Casos de uso/CU-003-Registrar de Usuario.md",
-    "02 Casos de uso/Casos de Uso.md",
     "02 Casos de uso/CU-029-CON-EDVH.md",
     "02 Casos de uso/CU-028-CON-NPRO.md",
     "02 Casos de uso/CU-027-CON-APRO.md",
@@ -208,9 +240,6 @@
     "02 Casos de uso/CU-025-CON-HISR.md",
     "02 Casos de uso/CU-024-CON-HIST.md",
     "02 Casos de uso/CU-023-CON-VEHÍ.md",
-    "02 Casos de uso/CU-022-CON-PERF.md",
-    "02 Casos de uso/CU-021-Conductor.md",
-    "02 Casos de uso/CU-021-CON-ENLI.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",
