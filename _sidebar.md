@@ -22,6 +22,17 @@
       * [📈 CU-014-EST-VIAE](02%20Casos%20de%20uso/CU-014-EST-VIAE.md)
       * [🗺️ CU-015-MAP](02%20Casos%20de%20uso/CU-015-MAP.md)
       * [📉 CU-016-EDV](02%20Casos%20de%20uso/CU-016-EDV.md)
+    * [📍 CU-017-Mapas](02%20Casos%20de%20uso/CU-017-Mapas.md)
+      * [CU-018-MAP-MAC](02%20Casos%20de%20uso/CU-018-MAP-MAC.md)
+      * [CU-019-MAP-SEGC](02%20Casos%20de%20uso/CU-019-MAP-SEGC.md)
+    * [🚛 Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-CON-ENLI.md)
+      * [CU-022-CON-PERF](02%20Casos%20de%20uso/CU-022-CON-PERF.md)
+      * [CU-023-CON-VEHÍ](02%20Casos%20de%20uso/CU-023-CON-VEHÍ.md)
+      * [CU-024-CON-HIST](02%20Casos%20de%20uso/CU-024-CON-HIST.md)
+      * [CU-025-CON-HISR](02%20Casos%20de%20uso/CU-025-CON-HISR.md)
+      * [CU-026-CON-DOC](02%20Casos%20de%20uso/CU-026-CON-DOC.md)
+      * [CU-027-CON-APRO](02%20Casos%20de%20uso/CU-027-CON-APRO.md)
+      * [CU-028-CON-NPRO](02%20Casos%20de%20uso/CU-028-CON-NPRO.md)
 
 * **APIs**
   * [Diseño y Documentación](03%20API's/Diseño%20y%20Documentación%20de%20API’s.md)

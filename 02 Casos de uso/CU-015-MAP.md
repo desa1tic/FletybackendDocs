@@ -55,7 +55,7 @@ Este caso de uso describe la funcionalidad de visualización geográfica de los 
 
 ---
 
-## 🔗 Casos de Uso Relacionados (Orígenes del Mapa)
+## 🔗 Casos de Uso Relacionados
 * [CU-007-EST-VIAA](02%20Casos%20de%20uso/CU-007-EST-VIAA.md)
 * [CU-008-EST-VIAC](02%20Casos%20de%20uso/CU-008-EST-VIAC.md) 
 * [CU-009-EST-VIAF](02%20Casos%20de%20uso/CU-009-EST-VIAF.md)

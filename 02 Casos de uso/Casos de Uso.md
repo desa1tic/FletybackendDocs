@@ -1,3 +1,4 @@
+
 - **Configuración y Parámetros**
     
     - [[Casos de Uso - Ajustes|⚙️ Ajustes]]
@@ -8,7 +9,7 @@
     
     *  [👤 Usuarios (CU-001)](02%20Casos%20de%20uso/CU-001-Usuarios.md)
         
-    - [[Casos de Uso - Conductor|🚛 Conductor]]
+    - [[CU-021-Conductor|🚛 Conductor]]
         
     - [[Casos de Uso - Aliados|🤝 Aliados]]
         
@@ -18,7 +19,7 @@
     
     - [[Casos de Uso - Camiones|🚚 Camiones]]
         
-    - [[Casos de Uso - Mapas|📍 Mapas]]
+    - [[CU-017-Mapas|📍 Mapas]]
         
 - **Comunicación y Análisis**
     
