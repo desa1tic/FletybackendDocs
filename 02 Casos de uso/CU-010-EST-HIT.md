@@ -67,6 +67,6 @@ Este caso de uso describe la funcionalidad de consulta global del histórico de 
 * [CU-008-EST-VIAC](02%20Casos%20de%20uso/CU-008-EST-VIAC.md) 
 * [[CU-015-MAP]]
 * [[CU-016-EDV]]
-* [[CU-011-EST-RES]] 
-* [[CU-012-EST-MOC]] 
-* [[CU-013-EST-BILL]]
+* [CU-011-EST-RES](02%20Casos%20de%20uso/CU-011-EST-RES.md) 
+* [CU-012-EST-MOC](02%20Casos%20de%20uso/CU-012-EST-MOC.md) 
+* [CU-013-EST-BILL](02%20Casos%20de%20uso/CU-013-EST-BILL.md)
