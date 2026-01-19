@@ -65,4 +65,4 @@ Este caso de uso describe la funcionalidad que permite gestionar a los conductor
 * [CU-025-CON-HISR](02%20Casos%20de%20uso/CU-025-CON-HISR.md)
 * [CU-026-CON-DOC](02%20Casos%20de%20uso/CU-026-CON-DOC.md)
 * [CU-027-CON-APRO](02%20Casos%20de%20uso/CU-027-CON-APRO.md)
-* [CU-021-CON-ENLI](02%20Casos%20de%20uso/CU-021-CON-ENLI.md)
+* [Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-Conductor.md)

@@ -64,5 +64,5 @@ Este caso de uso describe la funcionalidad que permite obtener una visión compl
 * [CU-024-CON-HIST](02%20Casos%20de%20uso/CU-024-CON-HIST.md)
 * [CU-025-CON-HISR](02%20Casos%20de%20uso/CU-025-CON-HISR.md)
 * [CU-026-CON-DOC](02%20Casos%20de%20uso/CU-026-CON-DOC.md)
-* [CU-021-CON-ENLI](02%20Casos%20de%20uso/CU-021-CON-ENLI.md)
+* [Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-Conductor.md)
 * [CU-028-CON-NPRO](02%20Casos%20de%20uso/CU-028-CON-NPRO.md)

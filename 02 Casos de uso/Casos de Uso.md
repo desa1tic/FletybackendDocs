@@ -9,7 +9,7 @@
     
     *  [👤 Usuarios (CU-001)](02%20Casos%20de%20uso/CU-001-Usuarios.md)
         
-    - [[CU-021-Conductor|🚛 Conductor]]
+    - [🚛 Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-Conductor.md)
         
     - [[Casos de Uso - Aliados|🤝 Aliados]]
         

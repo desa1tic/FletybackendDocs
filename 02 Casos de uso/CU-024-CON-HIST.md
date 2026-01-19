@@ -54,7 +54,7 @@ Este caso de uso describe la funcionalidad que permite a los usuarios administra
 ---
 
 ### 🔗 Casos de Uso Relacionados
-* [CU-021-CON-ENLI](02%20Casos%20de%20uso/CU-021-CON-ENLI.md)
+* [Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-Conductor.md)
 * [CU-027-CON-APRO](02%20Casos%20de%20uso/CU-027-CON-APRO.md)
 * [CU-028-CON-NPRO](02%20Casos%20de%20uso/CU-028-CON-NPRO.md)
 * [CU-31-CON-MAPV](02%20Casos%20de%20uso/CU-31-CON-MAPV.md)
