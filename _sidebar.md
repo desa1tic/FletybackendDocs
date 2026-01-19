@@ -25,7 +25,7 @@
     * [📍 CU-017-Mapas](02%20Casos%20de%20uso/CU-017-Mapas.md)
       * [CU-018-MAP-MAC](02%20Casos%20de%20uso/CU-018-MAP-MAC.md)
       * [CU-019-MAP-SEGC](02%20Casos%20de%20uso/CU-019-MAP-SEGC.md)
-    * [🚛 Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-CON-ENLI.md)
+    * [🚛 Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-Conductor.md)
       * [CU-022-CON-PERF](02%20Casos%20de%20uso/CU-022-CON-PERF.md)
       * [CU-023-CON-VEHÍ](02%20Casos%20de%20uso/CU-023-CON-VEHÍ.md)
       * [CU-024-CON-HIST](02%20Casos%20de%20uso/CU-024-CON-HIST.md)
