@@ -56,5 +56,5 @@ Este caso de uso describe el proceso mediante el cual un administrador puede mod
 
 ### 🔗 Casos de Uso Relacionados
 * [CU-023-CON-VEHI](02%20Casos%20de%20uso/CU-023-CON-VEHI.md)
-* [CU-034-CAM-DASH](02%20Casos%20de%20uso/CU-034-CAM-DASH.md)
+* [CU-034-Camiones](CU-034-Camiones.md)
 * [Conductor (CU-021)](02%20Casos%20de%20uso/CU-021-Conductor.md)

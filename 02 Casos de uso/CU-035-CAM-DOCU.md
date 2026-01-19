@@ -50,4 +50,4 @@ Este caso de uso describe la funcionalidad que permite al usuario visualizar y d
 ---
 
 ### 🔗 Casos de Uso Relacionados
-* [CU-034-CAM-DASH](02%20Casos%20de%20uso/CU-034-CAM-DASH.md)
+* [CU-034-Camiones](CU-034-Camiones.md)

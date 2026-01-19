@@ -46,10 +46,11 @@
       * [CU-044-CORP-SOLC](02%20Casos%20de%20uso/CU-044-CORP-SOLC.md)
     * [🤝 Aliados (CU-045)](02%20Casos%20de%20uso/CU-045-Aliados.md)
       * [CU-008-EST-VIAC](02%20Casos%20de%20uso/CU-008-EST-VIAC.md)
-      * [CU-034-CAM-DASH](02%20Casos%20de%20uso/CU-034-CAM-DASH.md)
+      * [CU-034-Camiones](CU-034-Camiones.md)
       * [CU-047-ALIA-COND](02%20Casos%20de%20uso/CU-047-ALIA-COND.md)
       * [CU-048-ALIA-BANC](02%20Casos%20de%20uso/CU-048-ALIA-BANC.md)
       * [CU-046-ALIA-DETA](02%20Casos%20de%20uso/CU-046-ALIA-DETA.md)
+    * [🚛 Camiones (CU-035)](02%20Casos%20de%20uso/CU-035-Camiones.md)
 
 * **APIs**
   * [Diseño y Documentación](03%20API's/Diseño%20y%20Documentación%20de%20API’s.md)
