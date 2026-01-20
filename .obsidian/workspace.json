@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7564cf1f4338a0",
+        "id": "401f8275013d36d9",
         "type": "tabs",
         "children": [
           {
-            "id": "8732ab8e1af3fea6",
+            "id": "d0ad29bc9dc27355",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Casos de uso/CU-074-MAS-INBX.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CU-074-MAS-INBX"
+              "title": "New tab"
             }
           }
         ]
@@ -183,34 +179,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "8732ab8e1af3fea6",
+  "active": "d0ad29bc9dc27355",
   "lastOpenFiles": [
+    "02 Casos de uso/CU-049-Servicio.md",
+    "_sidebar.md",
+    "02 Casos de uso/Casos de Uso.md",
+    "02 Casos de uso/CU-058-SERV-TARF.md",
+    "02 Casos de uso/CU-060-SERV-NWTA.md",
+    "02 Casos de uso/CU-055-SERV-CITY.md",
+    "02 Casos de uso/CU-054-SERV-NWPA.md",
+    "02 Casos de uso/CU-053-SERV-PAED.md",
+    "02 Casos de uso/CU-052-SERV-PAÍS.md",
+    "02 Casos de uso/CU-052-SERV-PAIS.md",
+    "02 Casos de uso/CU-051-SERV-NWTS.md",
+    "02 Casos de uso/CU-050-SERV-EDIT.md",
+    "02 Casos de uso/CU-049-SERV-TIPO.md",
+    "02 Casos de uso/CU-077-Ajustes.md",
+    "CU-077-Ajustes.md",
+    "04 Código/Models.md",
+    "02 Casos de uso/Untitled.md",
+    "04 Código/Country Service.md",
     "02 Casos de uso/CU-075-MAS-NWNT.md",
-    "02 Casos de uso/CU-074-RPO-IFRC.md",
+    "02 Casos de uso/CU-071-SERVA-NWSA.md",
     "02 Casos de uso/CU-074-MAS-INBX.md",
+    "02 Casos de uso/CU-074-RPO-IFRC.md",
     "02 Casos de uso/CU-076-MAS-EDNT.md",
     "02 Casos de uso/CU-073-MAS-ENVM.md",
     "02 Casos de uso/CU-073-RPO-IFRU.md",
-    "02 Casos de uso/Casos de Uso.md",
     "02 Casos de uso/CU-072-SERVA-SAED.md",
-    "02 Casos de uso/CU-070-SERVA-SERVA.md",
-    "02 Casos de uso/CU-071-SERVA-NWSA.md",
-    "02 Casos de uso/CU-069-SERV-SEED.md",
-    "02 Casos de uso/CU-067-SERV-SERV.md",
-    "02 Casos de uso/CU-068-SERV-NWSE.md",
-    "02 Casos de uso/CU-064-SERV-MOD.md",
-    "02 Casos de uso/CU-066-SERV-MOED.md",
-    "02 Casos de uso/CU-065-SERV-NWMO.md",
-    "02 Casos de uso/CU-061-SERV-CAPC.md",
-    "02 Casos de uso/CU-063-SERV-CPED.md",
-    "02 Casos de uso/CU-062-SERV-NWCP.md",
-    "02 Casos de uso/CU-060-SERV-NWTA.md",
-    "02 Casos de uso/CU-058-SERV-TARF.md",
-    "02 Casos de uso/CU-059-SERV-TAED.md",
-    "02 Casos de uso/CU-057-SERV-NWCY.md",
-    "02 Casos de uso/CU-055-SERV-CITY.md",
-    "02 Casos de uso/CU-056-SERV-EDCY.md",
-    "02 Casos de uso/CU-052-SERV-PAÍS.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",

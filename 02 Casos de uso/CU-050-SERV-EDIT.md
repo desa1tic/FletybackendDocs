@@ -54,4 +54,4 @@ Este caso de uso describe el proceso para modificar la configuración operativa,
 ---
 
 ### 🔗 Casos de Uso Relacionados
-* [CU-049-SERV-TIPO](02%20Casos%20de%20uso/CU-049-SERV-TIPO.md)
+* [Tipo de Servicios (CU-049)](02%20Casos%20de%20uso/CU-049-Servicio.md)
