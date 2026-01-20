@@ -58,6 +58,15 @@
       * [CU-055-SERV-CITY](02%20Casos%20de%20uso/CU-055-SERV-CITY.md)
       * [CU-058-SERV-TARF](02%20Casos%20de%20uso/CU-058-SERV-TARF.md)
       * [CU-061-SERV-CAPC](02%20Casos%20de%20uso/CU-061-SERV-CAPC.md)
+      * [CU-064-SERV-MOD](02%20Casos%20de%20uso/CU-064-SERV-MOD.md)
+      * [CU-067-SERV-SERV](02%20Casos%20de%20uso/CU-067-SERV-SERV.md)
+      * [CU-070-SERVA-SERVA](02%20Casos%20de%20uso/CU-070-SERVA-SERVA.md)
+    * [📝 Reportes (CU-073-RPO-IFRU)](02%20Casos%20de%20uso/CU-073-RPO-IFRU.md)
+    * [📝 Reportes (CU-074-RPO-IFRC)](02%20Casos%20de%20uso/CU-074-RPO-IFRC.md)
+    * [🔔 Notificaciones masivas (CU-073-MAS-ENVM)](02%20Casos%20de%20uso/CU-073-MAS-ENVM.md)
+    * [🔔 Inbox de Notificaciones (CU-074-MAS-INBX)](02%20Casos%20de%20uso/CU-074-MAS-INBX.md)
+      * [CU-075-MAS-NWNT](02%20Casos%20de%20uso/CU-075-MAS-NWNT.md)
+      * [CU-076-MAS-EDNT](02%20Casos%20de%20uso/CU-076-MAS-EDNT.md)
 
 * **APIs**
   * [Diseño y Documentación](03%20API's/Diseño%20y%20Documentación%20de%20API’s.md)

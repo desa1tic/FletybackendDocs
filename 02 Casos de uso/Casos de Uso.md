@@ -27,4 +27,4 @@
         
     - [📊 Estadísticas](02%20Casos%20de%20uso/CU-004%20-%20Dashboard.md)
         
-    - [[Casos de Uso - Reportes|📝 Reportes]]
+    - [📝 Reportes (CU-073)](CU-073-RPO-IFRU.md)
