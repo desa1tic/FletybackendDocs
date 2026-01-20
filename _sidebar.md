@@ -68,6 +68,15 @@
       * [CU-075-MAS-NWNT](02%20Casos%20de%20uso/CU-075-MAS-NWNT.md)
       * [CU-076-MAS-EDNT](02%20Casos%20de%20uso/CU-076-MAS-EDNT.md)
     * [⚙️ Ajustes (CU-077)](02%20Casos%20de%20uso/CU-077-Ajustes.md)
+      * [CU-080-CONF-BSIC](02%20Casos%20de%20uso/CU-080-CONF-BSIC.md)
+      * [CU-081-CONF-STNG](02%20Casos%20de%20uso/CU-081-CONF-STNG.md)
+      * [CU-082-CONF-PRMO](02%20Casos%20de%20uso/CU-082-CONF-PRMO.md)
+      * [CU-086-CONF-DOCS](02%20Casos%20de%20uso/CU-086-CONF-DOCS.md)
+      * [CU-089-CONF-EMAIL](02%20Casos%20de%20uso/CU-089-CONF-EMAIL.md)
+      * [CU-090-CONF-SMS](02%20Casos%20de%20uso/CU-090-CONF-SMS.md)
+      * [CU-091-CONF-USER](02%20Casos%20de%20uso/CU-091-CONF-USER.md)
+      * [CU-091-CONF-USER](02%20Casos%20de%20uso/CU-091-CONF-USER.md)
+      * [CU-094-CONF-TERM](02%20Casos%20de%20uso/CU-094-CONF-TERM.md)
 
 * **APIs**
   * [Diseño y Documentación](03%20API's/Diseño%20y%20Documentación%20de%20API’s.md)

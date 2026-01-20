@@ -11,10 +11,14 @@
             "id": "d0ad29bc9dc27355",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 Casos de uso/CU-094-CONF-TERM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CU-094-CONF-TERM"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 207.5
   },
   "right": {
     "id": "4633fee13480926c",
@@ -181,8 +185,25 @@
   },
   "active": "d0ad29bc9dc27355",
   "lastOpenFiles": [
-    "02 Casos de uso/CU-049-Servicio.md",
     "_sidebar.md",
+    "02 Casos de uso/CU-094-CONF-TERM.md",
+    "02 Casos de uso/CU-093-CONF-EDUS.md",
+    "02 Casos de uso/CU-091-CONF-USER.md",
+    "02 Casos de uso/CU-092-CONF-NWUS.md",
+    "02 Casos de uso/CU-090-CONF-SMS.md",
+    "02 Casos de uso/CU-089-CONF-EMAIL.md",
+    "02 Casos de uso/CU-088-CONF-EDDC.md",
+    "02 Casos de uso/CU-087-CONF-NWDC.md",
+    "02 Casos de uso/CU-086-CONF-DOCS.md",
+    "02 Casos de uso/CU-082-CONF-PRMO.md",
+    "02 Casos de uso/CU-085-CONF-PMINF.md",
+    "02 Casos de uso/CU-084-CONF-EDPM.md",
+    "02 Casos de uso/CU-083-CONF-NWPM.md",
+    "02 Casos de uso/CU-081-CONF-STNG.md",
+    "02 Casos de uso/CU-080-CONF-BSIC.md",
+    "02 Casos de uso/CU-077-Ajustes.md",
+    "02 Casos de uso/CU-079-CONF-EDID.md",
+    "02 Casos de uso/CU-049-Servicio.md",
     "02 Casos de uso/Casos de Uso.md",
     "02 Casos de uso/CU-058-SERV-TARF.md",
     "02 Casos de uso/CU-060-SERV-NWTA.md",
@@ -190,23 +211,6 @@
     "02 Casos de uso/CU-054-SERV-NWPA.md",
     "02 Casos de uso/CU-053-SERV-PAED.md",
     "02 Casos de uso/CU-052-SERV-PAÍS.md",
-    "02 Casos de uso/CU-052-SERV-PAIS.md",
-    "02 Casos de uso/CU-051-SERV-NWTS.md",
-    "02 Casos de uso/CU-050-SERV-EDIT.md",
-    "02 Casos de uso/CU-049-SERV-TIPO.md",
-    "02 Casos de uso/CU-077-Ajustes.md",
-    "CU-077-Ajustes.md",
-    "04 Código/Models.md",
-    "02 Casos de uso/Untitled.md",
-    "04 Código/Country Service.md",
-    "02 Casos de uso/CU-075-MAS-NWNT.md",
-    "02 Casos de uso/CU-071-SERVA-NWSA.md",
-    "02 Casos de uso/CU-074-MAS-INBX.md",
-    "02 Casos de uso/CU-074-RPO-IFRC.md",
-    "02 Casos de uso/CU-076-MAS-EDNT.md",
-    "02 Casos de uso/CU-073-MAS-ENVM.md",
-    "02 Casos de uso/CU-073-RPO-IFRU.md",
-    "02 Casos de uso/CU-072-SERVA-SAED.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",
