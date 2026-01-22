@@ -3,4 +3,4 @@ La capa de **Controllers** (`controllers/`) actúa como el intermediario entre l
 A continuación se lista, todos las clases de la capa controller
 
 Carpeta principal de Controllers
-[Trip.js](04%20Código/Controller-Principal/Trip.md)
+* [Trip.js](04%20Código/Controller-Principal/Trip.md)
