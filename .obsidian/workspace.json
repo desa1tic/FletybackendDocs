@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df855f2867d839ee",
+        "id": "7237bbfeba1ceb30",
         "type": "tabs",
         "children": [
           {
-            "id": "1eec3c9445220e12",
+            "id": "2ee135e27b876610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Código/Controllers.md",
+                "file": "04 Código/Admin_Controller/Daily_Earning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controllers"
+              "title": "Daily_Earning"
             }
           }
         ]
@@ -183,12 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "1eec3c9445220e12",
+  "active": "2ee135e27b876610",
   "lastOpenFiles": [
-    "04 Código/Corporate_Controller/Corporate.md",
-    "04 Código/Admin_Controller/Admin_Partner_Weekly_Earning.md",
     "04 Código/Controllers.md",
+    "04 Código/Admin_Controller/Daily_Earning.md",
     "04 Código/Admin_Controller/Weekly_Earning.md",
+    "04 Código/Admin_Controller/Country.md",
+    "04 Código/Admin_Controller/Corporate_Admin.md",
+    "04 Código/Admin_Controller/City.md",
+    "04 Código/Admin_Controller/Admin_Partner_Weekly_Earning.md",
+    "04 Código/Admin_Controller/City_Service.md",
+    "04 Código/Admin_Controller/Bank_Detail.md",
+    "04 Código/Corporate_Controller/Corporate.md",
     "04 Código/Controller-Principal/Trip.md",
     "04 Código/Controller-Principal/Provider_Document.md",
     "log.json",
@@ -207,12 +213,6 @@
     "02 Casos de uso/CU-082-CONF-PRMO.md",
     "02 Casos de uso/CU-085-CONF-PMINF.md",
     "02 Casos de uso/CU-084-CONF-EDPM.md",
-    "02 Casos de uso/CU-083-CONF-NWPM.md",
-    "02 Casos de uso/CU-081-CONF-STNG.md",
-    "02 Casos de uso/CU-080-CONF-BSIC.md",
-    "02 Casos de uso/CU-077-Ajustes.md",
-    "02 Casos de uso/CU-079-CONF-EDID.md",
-    "02 Casos de uso/CU-049-Servicio.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",

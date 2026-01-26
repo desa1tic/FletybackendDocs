@@ -29,6 +29,12 @@ Esta tabla detalla la organización de los archivos del sistema, facilitando la 
 |                     | [Corporate_Static_Api.js](04%20Código/Corporate_Controller/Corporate_Static_Api.md)             | Dashboards y analítica para usuarios                                             |
 | **Administración**  | [Weekly_Earning.js](04%20Código/Admin_Controller/Weekly_Earning.md)                             | Liquidación  y dispersión de pagos.                                              |
 |                     | [Admin_Partner_Weekly_Earning.js](04%20Código/Admin_Controller/Admin_Partner_Weekly_Earning.md) | Supervisa y gestiona la liquidación de las ganancias acumuladas de los asociados |
+|                     | [Bank_Detail.js](04%20Código/Admin_Controller/Bank_Detail.md)                                   | Gestiona información de cuentas bancarias en la plataforma                       |
+|                     | [City_Service.js](04%20Código/Admin_Controller/City_Service.md)                                 | Gestiona la lógica de configuración de servicios y tarifas por ciudad            |
+|                     | [City.js](04%20Código/Admin_Controller/City.md)                                                 | Gestiona la creación de ciudades,                                                |
+|                     | [Corporate_Admin.js](04%20Código/Admin_Controller/Corporate_Admin.md)                           | Gestiona  las cuentas corporativas                                               |
+|                     | [Country.js](04%20Código/Admin_Controller/Country.md)                                           | Gestionar los países donde la plataforma opera.                                  |
+|                     | [Daily_Earning.js](04%20Código/Admin_Controller/Daily_Earning.md)                               | gestiona las ganancias diarias                                                   |
 |                     |                                                                                                 |                                                                                  |
 
 
