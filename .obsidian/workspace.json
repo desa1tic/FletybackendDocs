@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "401f8275013d36d9",
+        "id": "df855f2867d839ee",
         "type": "tabs",
         "children": [
           {
-            "id": "d0ad29bc9dc27355",
+            "id": "1eec3c9445220e12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,12 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0ad29bc9dc27355",
+  "active": "1eec3c9445220e12",
   "lastOpenFiles": [
-    "04 Código/Controller-Principal/Trip.md",
-    "04 Código/Controller-Principal/Provider_Document.md",
+    "04 Código/Corporate_Controller/Corporate.md",
+    "04 Código/Admin_Controller/Admin_Partner_Weekly_Earning.md",
     "04 Código/Controllers.md",
     "04 Código/Admin_Controller/Weekly_Earning.md",
+    "04 Código/Controller-Principal/Trip.md",
+    "04 Código/Controller-Principal/Provider_Document.md",
     "log.json",
     "04 Código/Controller-Principal/Trip_old.md",
     "02 Casos de uso/CU-094-CONF-TERM.md",
@@ -211,8 +213,6 @@
     "02 Casos de uso/CU-077-Ajustes.md",
     "02 Casos de uso/CU-079-CONF-EDID.md",
     "02 Casos de uso/CU-049-Servicio.md",
-    "02 Casos de uso/Casos de Uso.md",
-    "02 Casos de uso/CU-058-SERV-TARF.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",
