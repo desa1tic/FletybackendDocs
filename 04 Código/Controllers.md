@@ -35,7 +35,9 @@ Esta tabla detalla la organización de los archivos del sistema, facilitando la 
 |                     | [Corporate_Admin.js](04%20Código/Admin_Controller/Corporate_Admin.md)                           | Gestiona  las cuentas corporativas                                               |
 |                     | [Country.js](04%20Código/Admin_Controller/Country.md)                                           | Gestionar los países donde la plataforma opera.                                  |
 |                     | [Daily_Earning.js](04%20Código/Admin_Controller/Daily_Earning.md)                               | gestiona las ganancias diarias                                                   |
-|                     |                                                                                                 |                                                                                  |
+|                     | [Dashboard.js](04%20Código/Admin_Controller/Dashboard.md)                                       | Gestiona la visualización de estadísticas globales                               |
+|                     | [Dispatcher.js](04%20Código/Admin_Controller/Dispatcher.md)                                     | gestiona la asignación de viajes manualmente                                     |
+|                     | [Documents.js](04%20Código/Admin_Controller/Documents.md)                                       | gestión de documentos de usuarios en la plataforma                               |
 
 
 
