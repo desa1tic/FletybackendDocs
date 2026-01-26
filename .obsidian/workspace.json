@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Trip"
             }
+          },
+          {
+            "id": "582ac5b2ff82d2d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +196,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0ad29bc9dc27355",
+  "active": "582ac5b2ff82d2d0",
   "lastOpenFiles": [
+    "log.json",
     "04 Código/Controllers.md",
     "04 Código/Controller-Principal/Trip.md",
     "04 Código/Controller-Principal/Trip_old.md",
@@ -211,7 +225,6 @@
     "02 Casos de uso/Casos de Uso.md",
     "02 Casos de uso/CU-058-SERV-TARF.md",
     "02 Casos de uso/CU-060-SERV-NWTA.md",
-    "02 Casos de uso/CU-055-SERV-CITY.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",
