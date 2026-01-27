@@ -41,6 +41,17 @@ Esta tabla detalla la organización de los archivos del sistema, facilitando la 
 |                     | [Email_Detail.js](04%20Código/Admin_Controller/Email_Detail.md)                                 | Gestiona las plantillas y envio de corre                                         |
 |                     | [Ferry_Ticket.js](04%20Código/Admin_Controller/Ferry_Ticket.md)                                 | Gestión y validación de tickets                                                  |
 |                     | [Guest_Token.js](04%20Código/Admin_Controller/Guest_Token.md)                                   | Gestión de token de invitados.                                                   |
+|                     | [Inbox_Notifications.js](04%20Código/Admin_Controller/Inbox_Notifications.md)                   | Gestión de Notificaciones                                                        |
+|                     | [Languages.js](04%20Código/Admin_Controller/Languages.md)                                       | Gestión de idiomas                                                               |
+|                     | [Map_View.js](04%20Código/Admin_Controller/Map_View.md)                                         | Proporciona los datos de una vista panorámica del estado de la flota             |
+|                     | [Partner_Earning.js](04%20Código/Admin_Controller/Partner_Earning.md)                           | Gestión financiera desde de los asociados                                        |
+|                     | [Partner_Payments.js](04%20Código/Admin_Controller/Partner_Payments.md)                         | Gestiona la pasarela de pagos y la billetera digital                             |
+|                     | [Partner.js](04%20Código/Admin_Controller/Partner.md)                                           | Gestiona el ciclo de vida completo de los asociados                              |
+|                     | [Promo_Code.js](04%20Código/Admin_Controller/Promo_Code.md)                                     | Gestiona el ciclo de vida de los códigos promocionales.                          |
+|                     | [Provider_Daily_Earning.js](04%20Código/Admin_Controller/Provider_Daily_Earning.md)             | Permite gestionar  el desglose de las ganancias diarias de los conductores       |
+|                     | [Provider_Earning.js](04%20Código/Admin_Controller/Provider_Earning.md)                         | Gestiona la visualización de ganancias diarias de los proveedores                |
+|                     | [Provider_Weekly_Earning.js](04%20Código/Admin_Controller/Provider_Weekly_Earning.md)           | Gestiona la visualización de ganancias semanales de los proveedores              |
+|                     | [Provider.js](04%20Código/Admin_Controller/Provider.md)                                         | Gestiona  ciclo de vida del proveedor.                                           |
 
 
 

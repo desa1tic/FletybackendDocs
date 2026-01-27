@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e213a23495b48dc6",
+        "id": "e769a970767a6219",
         "type": "tabs",
         "children": [
           {
-            "id": "79f7b55e49545b7c",
+            "id": "4c1e0d7642739c9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 Código/Admin_Controller/Provider.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Provider"
             }
           }
         ]
@@ -179,10 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "79f7b55e49545b7c",
+  "active": "4c1e0d7642739c9f",
   "lastOpenFiles": [
-    "04 Código/Admin_Controller/Guest_Token.md",
     "04 Código/Controllers.md",
+    "04 Código/Admin_Controller/Provider.md",
+    "04 Código/Admin_Controller/Provider_Weekly_Earning.md",
+    "04 Código/Admin_Controller/Provider_Earning.md",
+    "04 Código/Admin_Controller/Provider_Daily_Earning.md",
+    "04 Código/Admin_Controller/Promo_Code.md",
+    "04 Código/Admin_Controller/Partner.md",
+    "04 Código/Admin_Controller/Partner_Payments.md",
+    "04 Código/Admin_Controller/Partner_Earning.md",
+    "04 Código/Admin_Controller/Map_View.md",
+    "04 Código/Admin_Controller/Languages.md",
+    "04 Código/Admin_Controller/Inbox_Notifications.md",
+    "04 Código/Admin_Controller/Guest_Token.md",
     "04 Código/Admin_Controller/Ferry_Ticket.md",
     "04 Código/Admin_Controller/Email_Detail.md",
     "04 Código/Admin_Controller/Documents.md",
@@ -196,19 +211,8 @@
     "04 Código/Admin_Controller/City.md",
     "04 Código/Admin_Controller/Admin_Partner_Weekly_Earning.md",
     "04 Código/Admin_Controller/City_Service.md",
-    "04 Código/Admin_Controller/Bank_Detail.md",
-    "04 Código/Corporate_Controller/Corporate.md",
-    "04 Código/Controller-Principal/Trip.md",
-    "04 Código/Controller-Principal/Provider_Document.md",
     "log.json",
-    "04 Código/Controller-Principal/Trip_old.md",
-    "02 Casos de uso/CU-094-CONF-TERM.md",
     "04 Código/Controller-Principal",
-    "_sidebar.md",
-    "02 Casos de uso/CU-093-CONF-EDUS.md",
-    "02 Casos de uso/CU-091-CONF-USER.md",
-    "02 Casos de uso/CU-092-CONF-NWUS.md",
-    "02 Casos de uso/CU-090-CONF-SMS.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",
