@@ -36,8 +36,11 @@ Esta tabla detalla la organización de los archivos del sistema, facilitando la 
 |                     | [Country.js](04%20Código/Admin_Controller/Country.md)                                           | Gestionar los países donde la plataforma opera.                                  |
 |                     | [Daily_Earning.js](04%20Código/Admin_Controller/Daily_Earning.md)                               | gestiona las ganancias diarias                                                   |
 |                     | [Dashboard.js](04%20Código/Admin_Controller/Dashboard.md)                                       | Gestiona la visualización de estadísticas globales                               |
-|                     | [Dispatcher.js](04%20Código/Admin_Controller/Dispatcher.md)                                     | gestiona la asignación de viajes manualmente                                     |
-|                     | [Documents.js](04%20Código/Admin_Controller/Documents.md)                                       | gestión de documentos de usuarios en la plataforma                               |
+|                     | [Dispatcher.js](04%20Código/Admin_Controller/Dispatcher.md)                                     | Gestiona la asignación de viajes manualmente                                     |
+|                     | [Documents.js](04%20Código/Admin_Controller/Documents.md)                                       | Gestión de documentos de usuarios en la plataforma                               |
+|                     | [Email_Detail.js](04%20Código/Admin_Controller/Email_Detail.md)                                 | Gestiona las plantillas y envio de corre                                         |
+|                     | [Ferry_Ticket.js](04%20Código/Admin_Controller/Ferry_Ticket.md)                                 | Gestión y validación de tickets                                                  |
+|                     | [Guest_Token.js](04%20Código/Admin_Controller/Guest_Token.md)                                   | Gestión de token de invitados.                                                   |
 
 
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11c4adeb3b4851d8",
+        "id": "e213a23495b48dc6",
         "type": "tabs",
         "children": [
           {
-            "id": "49904fd20614fcf8",
+            "id": "79f7b55e49545b7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Código/Admin_Controller/Documents.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Documents"
+              "title": "New tab"
             }
           }
         ]
@@ -183,9 +179,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "49904fd20614fcf8",
+  "active": "79f7b55e49545b7c",
   "lastOpenFiles": [
+    "04 Código/Admin_Controller/Guest_Token.md",
     "04 Código/Controllers.md",
+    "04 Código/Admin_Controller/Ferry_Ticket.md",
+    "04 Código/Admin_Controller/Email_Detail.md",
     "04 Código/Admin_Controller/Documents.md",
     "04 Código/Admin_Controller/Dispatcher.md",
     "04 Código/Admin_Controller/Dashboard.md",
@@ -210,9 +209,6 @@
     "02 Casos de uso/CU-091-CONF-USER.md",
     "02 Casos de uso/CU-092-CONF-NWUS.md",
     "02 Casos de uso/CU-090-CONF-SMS.md",
-    "02 Casos de uso/CU-089-CONF-EMAIL.md",
-    "02 Casos de uso/CU-088-CONF-EDDC.md",
-    "02 Casos de uso/CU-087-CONF-NWDC.md",
     "02 Casos de uso/Casos de Uso",
     "Casos de Uso",
     "02 Casos de uso",
