@@ -64,6 +64,12 @@ Esta tabla detalla la organización de los archivos del sistema, facilitando la 
 |                     | [Trip_Earning.js](04%20Código/Admin_Controller/Trip_Earning.md)                                 |                                                                                  |
 |                     | [Truck.js](04%20Código/Admin_Controller/Truck.md)                                               |                                                                                  |
 |                     | [Type_Capacity.js](04%20Código/Admin_Controller/Type_Capacity.md)                               |                                                                                  |
+|                     | [Type_Models.js](04%20Código/Admin_Controller/Type_Models.md)                                   |                                                                                  |
+|                     | [Type_Services.js](04%20Código/Admin_Controller/Type_Services.md)                               |                                                                                  |
+|                     | [User.js](04%20Código/Admin_Controller/User.md)                                                 |                                                                                  |
+|                     | Vehicle.js                                                                                      | N/A en esta ruta el archivo esta completamente vacio                             |
+|                     | [Wallet_History.js](04%20Código/Admin_Controller/Wallet_History.md)                             |                                                                                  |
+|                     |                                                                                                 |                                                                                  |
 
 
 
