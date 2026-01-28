@@ -52,6 +52,18 @@ Esta tabla detalla la organización de los archivos del sistema, facilitando la 
 |                     | [Provider_Earning.js](04%20Código/Admin_Controller/Provider_Earning.md)                         | Gestiona la visualización de ganancias diarias de los proveedores                |
 |                     | [Provider_Weekly_Earning.js](04%20Código/Admin_Controller/Provider_Weekly_Earning.md)           | Gestiona la visualización de ganancias semanales de los proveedores              |
 |                     | [Provider.js](04%20Código/Admin_Controller/Provider.md)                                         | Gestiona  ciclo de vida del proveedor.                                           |
+|                     | [Request.js](04%20Código/Admin_Controller/Request.md)                                           | Gestión de las solicitudes                                                       |
+|                     | [Review.js](04%20Código/Admin_Controller/Review.md)                                             | Gestiona las reseñas                                                             |
+|                     | [Shedule.js](04%20Código/Admin_Controller/Shedule.md)                                           | Gestión de los viajes futuros                                                    |
+|                     | [Send_Mass_Notifications.js](04%20Código/Admin_Controller/Send_Mass_Notifications.md)           | Gestiona las notificaciones masivas                                              |
+|                     | [Service_Specifications.js](04%20Código/Admin_Controller/Service_Specifications.md)             | Gestiona los detalles de servicio                                                |
+|                     | [Service_Type.js](04%20Código/Admin_Controller/Service_Type.md)                                 | Gestión de modelos de vehículos por servicio                                     |
+|                     |                                                                                                 |                                                                                  |
+
+
+
+
+
 
 
 

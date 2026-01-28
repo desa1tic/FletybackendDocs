@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Código/Admin_Controller/Provider.md",
+                "file": "04 Código/Controllers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Provider"
+              "title": "Controllers"
             }
           }
         ]
@@ -185,7 +185,13 @@
   },
   "active": "4c1e0d7642739c9f",
   "lastOpenFiles": [
+    "04 Código/Admin_Controller/Service_Type.md",
     "04 Código/Controllers.md",
+    "04 Código/Admin_Controller/Service_Specifications.md",
+    "04 Código/Admin_Controller/Send_Mass_Notifications.md",
+    "04 Código/Admin_Controller/Shedule.md",
+    "04 Código/Admin_Controller/Review.md",
+    "04 Código/Admin_Controller/Request.md",
     "04 Código/Admin_Controller/Provider.md",
     "04 Código/Admin_Controller/Provider_Weekly_Earning.md",
     "04 Código/Admin_Controller/Provider_Earning.md",
@@ -205,12 +211,6 @@
     "04 Código/Admin_Controller/Dashboard.md",
     "Untitled.md",
     "04 Código/Admin_Controller/Daily_Earning.md",
-    "04 Código/Admin_Controller/Weekly_Earning.md",
-    "04 Código/Admin_Controller/Country.md",
-    "04 Código/Admin_Controller/Corporate_Admin.md",
-    "04 Código/Admin_Controller/City.md",
-    "04 Código/Admin_Controller/Admin_Partner_Weekly_Earning.md",
-    "04 Código/Admin_Controller/City_Service.md",
     "log.json",
     "04 Código/Controller-Principal",
     "02 Casos de uso/Casos de Uso",
