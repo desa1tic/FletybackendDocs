@@ -58,7 +58,12 @@ Esta tabla detalla la organización de los archivos del sistema, facilitando la 
 |                     | [Send_Mass_Notifications.js](04%20Código/Admin_Controller/Send_Mass_Notifications.md)           | Gestiona las notificaciones masivas                                              |
 |                     | [Service_Specifications.js](04%20Código/Admin_Controller/Service_Specifications.md)             | Gestiona los detalles de servicio                                                |
 |                     | [Service_Type.js](04%20Código/Admin_Controller/Service_Type.md)                                 | Gestión de modelos de vehículos por servicio                                     |
-|                     |                                                                                                 |                                                                                  |
+|                     | [Setting.js](04%20Código/Admin_Controller/Setting.md)                                           | Gestiona el panel de configuración global del sistema                            |
+|                     | [Sms_Detail.js](04%20Código/Admin_Controller/Sms_Detail.md)                                     | Gestiona las plantillas de mensajes del sistema.                                 |
+|                     | [Transaction_History.js](04%20Código/Admin_Controller/Transaction_History.md)                   |                                                                                  |
+|                     | [Trip_Earning.js](04%20Código/Admin_Controller/Trip_Earning.md)                                 |                                                                                  |
+|                     | [Truck.js](04%20Código/Admin_Controller/Truck.md)                                               |                                                                                  |
+|                     | [Type_Capacity.js](04%20Código/Admin_Controller/Type_Capacity.md)                               |                                                                                  |
 
 
 
