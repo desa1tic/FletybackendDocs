@@ -83,7 +83,7 @@
 
 
 * **💻 Código
-  * [Vista y Rutas (Views)](04%20Código/Views_Routes.md)
+  * [Rutas](04%20Código/Routes.md)
   * [Controladores (Controllers)](04%20Código/Controllers.md)
   * [Modelos (Models)](04%20Código/Models.md)
   * [Servicios (Services)](04%20Código/Services.md)
