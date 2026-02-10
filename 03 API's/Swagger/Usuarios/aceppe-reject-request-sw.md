@@ -1,3 +1,4 @@
+### Aceptar o Rechazar Viaje
 
 ```json
 {

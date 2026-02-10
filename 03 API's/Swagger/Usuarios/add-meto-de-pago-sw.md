@@ -1,3 +1,5 @@
+### Agregar método de pago - SW
+
 ```json
 {
   "openapi": "3.0.0",
@@ -153,4 +155,6 @@
   }
 }
 ```
+
+
 

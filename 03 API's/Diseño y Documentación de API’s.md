@@ -300,13 +300,34 @@ A continuación se detalla un ejemplo de las especificaciones técnicas de los e
 
 ### Catalogo de Swagger
 
-| Usuario                                                                            | Provider | Comons |
-| ---------------------------------------------------------------------------------- | -------- | ------ |
-| [accept/reject - request](03%20API's/Swagger/Usuarios/aceppe-reject-request-sw.md) |          |        |
-| [add - payment-method](03%20API's/Swagger/Usuarios/add-meto-de-pago-sw.md)         |          |        |
-|                                                                                    |          |        |
-|                                                                                    |          |        |
-|                                                                                    |          |        |
-|                                                                                    |          |        |
-|                                                                                    |          |        |
-|                                                                                    |          |        |
+| Usuario                                                                                | Provider | Comons |
+| -------------------------------------------------------------------------------------- | -------- | ------ |
+| [accept/reject - request](03%20API's/Swagger/Usuarios/aceppe-reject-request-sw.md)     |          |        |
+| [add - payment-method](03%20API's/Swagger/Usuarios/add-meto-de-pago-sw.md)             |          |        |
+| [add-emergency-contact](03%20API's/Swagger/Usuarios/add-emergency-contact-sw.md)       |          |        |
+| [add-favorite-provider](03%20API's/Swagger/Usuarios/add-favorite-provider-sw.md)       |          |        |
+| [add-wallet-amount](03%20API's/Swagger/Usuarios/add-wallet-amount-sw.md)               |          |        |
+| [apply-referal-code](03%20API's/Swagger/Usuarios/apply-referal-code-sw.md)             |          |        |
+| [cancel-trip](03%20API's/Swagger/Usuarios/cancel-trip-sw.md)                           |          |        |
+| [change-payment-type](03%20API's/Swagger/Usuarios/change-payment-type-sw.md)           |          |        |
+| [change-wallet-status](03%20API's/Swagger/Usuarios/change-wallet-status-sw.md)         |          |        |
+| [create-trip](03%20API's/Swagger/Usuarios/create-trip-sw.md)                           |          |        |
+| [create-promotion](03%20API's/Swagger/Usuarios/create-promotion-sw.md)                 |          |        |
+| [delete-emergency-contact](03%20API's/Swagger/Usuarios/delete-emergency-contact-sw.md) |          |        |
+| [delete-favorite-provider](03%20API's/Swagger/Usuarios/delete-favorite-provider-sw.md) |          |        |
+| [delete-promotion-code](03%20API's/Swagger/Usuarios/delete-promotion-code-sw.md)       |          |        |
+| [feature-trip-user](03%20API's/Swagger/Usuarios/feature-trip-user-sw.md)               |          |        |
+| [forgot-password](03%20API's/Swagger/Usuarios/forgot-password-sw.md)                   |          |        |
+| [get-stripe-payment](03%20API's/Swagger/Usuarios/get-stripe-payment-sw.md)             |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |
+|                                                                                        |          |        |

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d70d7e4294274b9",
+        "id": "3a6a3abf99d067d4",
         "type": "tabs",
         "children": [
           {
-            "id": "debbf53db75c357c",
+            "id": "6a9f9dfa8d56a427",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 API's/Swagger/Usuarios/add-meto-de-pago-sw.md",
+                "file": "03 API's/Swagger/Usuarios/get-trip-status-sw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "add-meto-de-pago-sw"
+              "title": "get-trip-status-sw"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 API's/Swagger/Usuarios/add-meto-de-pago-sw.md",
+                "file": "03 API's/Swagger/Usuarios/get-trip-status-sw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for add-meto-de-pago-sw"
+              "title": "Backlinks for get-trip-status-sw"
             }
           },
           {
@@ -182,10 +182,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "debbf53db75c357c",
+  "active": "6a9f9dfa8d56a427",
   "lastOpenFiles": [
+    "03 API's/Swagger/Usuarios/get-stripe-payment-sw.md",
+    "03 API's/Swagger/Usuarios/get-trip-status-sw.md",
     "03 API's/Diseño y Documentación de API’s.md",
+    "03 API's/Swagger/Usuarios/forgot-password-sw.md",
+    "03 API's/Swagger/Usuarios/feature-trip-user-sw.md",
+    "03 API's/Swagger/Usuarios/delete-promotion-code-sw.md",
+    "03 API's/Swagger/Usuarios/delete-metodo-pago-sw.md",
+    "03 API's/Swagger/Usuarios/delete-favorite-provider-sw.md",
+    "03 API's/Swagger/Usuarios/delete-emergency-contact-sw.md",
+    "03 API's/Swagger/Usuarios/create-trip-sw.md",
+    "03 API's/Swagger/Usuarios/create-promotion-sw.md",
+    "03 API's/Swagger/Usuarios/change-wallet-status-sw.md",
+    "03 API's/Swagger/Usuarios/change-payment-type-sw.md",
+    "03 API's/Swagger/Usuarios/cancel-trip-sw.md",
+    "03 API's/Swagger/Usuarios/apply-referal-code-sw.md",
+    "03 API's/Swagger/Usuarios/add-wallet-amount-sw.md",
     "03 API's/Swagger/Usuarios/add-meto-de-pago-sw.md",
+    "03 API's/Swagger/Usuarios/add-favorite-provider-sw.md",
+    "03 API's/Swagger/Usuarios/add-emergency-contact-sw.md",
     "03 API's/Swagger/Usuarios/aceppe-reject-request-sw.md",
     "03 API's/Login Swagger.md",
     "04 Código/Routes.md",
@@ -198,29 +215,12 @@
     "03 API's/Swagger",
     "01 Generalidades/Admin.md",
     "02 Casos de uso/Casos de Uso.md",
-    "05 Base de Datos/DB.md",
-    "_sidebar.md",
     "05 Base de Datos",
-    "04 Código/Controllers.md",
-    "01 Generalidades/Archivos Clave.md",
-    "01 Generalidades/Stack Tecnologico.md",
-    "01 Generalidades/Situación actual.md",
-    "01 Generalidades/Descripción General de Arquitectura.md",
-    "README.md",
     "Pasted image 20260202093133.png",
     "Pasted image 20260202092837.png",
     "Pasted image 20260202092310.png",
     "Pasted image 20260202092305.png",
-    "03 Código/Routes.md",
-    "04 Código/Views_Routes.md",
-    "02 Casos de uso/CU-077-Ajustes.md",
-    "CU-077-Ajustes.md",
     "03 Código",
-    "04 Código/Views.md",
-    "04 Código/Country Service.md",
-    "04 Código/Models.md",
-    "04 Código/Services.md",
-    "04 Código/Trip Service.md",
     "04 Código/Controller_Api_Partner",
     "04 Código/Controller_Api_Partner_Select",
     "04 Código/Provider_Controller"
