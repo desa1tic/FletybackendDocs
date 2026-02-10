@@ -1,8 +1,7 @@
 * [🏠 Inicio](README.md)
 
 * **Generalidades**
-  * [Situación Actual](01%20Generalidades/Situación%20actual.md)
-  * [Stack Tecnológico](01%20Generalidades/Stack%20Tecnologico.md)
+    * [Estado Actual del Admin](01%20Generalidades/Admin.md)
 
 * **📂 Casos de Uso**
   * [Índice de Casos de Uso](02%20Casos%20de%20uso/Casos%20de%20Uso.md)
