@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Base de Datos/DB.md",
+                "file": "03 API's/Diseño y Documentación de API’s.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DB"
+              "title": "Diseño y Documentación de API’s"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Base de Datos/DB.md",
+                "file": "03 API's/Diseño y Documentación de API’s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DB"
+              "title": "Backlinks for Diseño y Documentación de API’s"
             }
           },
           {
@@ -199,18 +199,18 @@
   },
   "active": "08daec72cc1bfffd",
   "lastOpenFiles": [
+    "01 Generalidades/Admin.md",
+    "02 Casos de uso/Casos de Uso.md",
+    "05 Base de Datos/DB.md",
     "03 API's/Login Swagger.md",
     "03 API's/Diseño y Documentación de API’s.md",
     "_sidebar.md",
-    "05 Base de Datos/DB.md",
     "05 Base de Datos",
     "04 Código/Controllers.md",
-    "01 Generalidades/Admin.md",
     "01 Generalidades/Archivos Clave.md",
     "01 Generalidades/Stack Tecnologico.md",
     "01 Generalidades/Situación actual.md",
     "01 Generalidades/Descripción General de Arquitectura.md",
-    "02 Casos de uso/Casos de Uso.md",
     "README.md",
     "04 Código/Routes.md",
     "Pasted image 20260202093133.png",
