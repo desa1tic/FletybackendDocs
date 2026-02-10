@@ -297,3 +297,16 @@ Las Respuesta de error está siendo manejadas de la siguiente manera; dentro del
 A continuación se detalla un ejemplo de las especificaciones técnicas de los endpoints disponibles:
 
 * [🔐 Ver Swagger: Autenticación de Usuario (Login)](03%20API's/Login%20Swagger.md)
+
+### Catalogo de Swagger
+
+| Usuario                                                                            | Provider | Comons |
+| ---------------------------------------------------------------------------------- | -------- | ------ |
+| [accept/reject - request](03%20API's/Swagger/Usuarios/aceppe-reject-request-sw.md) |          |        |
+| [add - payment-method](03%20API's/Swagger/Usuarios/add-meto-de-pago-sw.md)         |          |        |
+|                                                                                    |          |        |
+|                                                                                    |          |        |
+|                                                                                    |          |        |
+|                                                                                    |          |        |
+|                                                                                    |          |        |
+|                                                                                    |          |        |
