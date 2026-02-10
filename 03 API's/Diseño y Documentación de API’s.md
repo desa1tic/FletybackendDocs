@@ -296,6 +296,6 @@ Las Respuesta de error está siendo manejadas de la siguiente manera; dentro del
 
 ### Catálogo de Endpoints (Swagger)
 
-A continuación se detallan las especificaciones técnicas de los endpoints disponibles:
+A continuación se detalla un ejemplo de las especificaciones técnicas de los endpoints disponibles:
 
 * [🔐 Ver Swagger: Autenticación de Usuario (Login)](03%20API's/Login%20Swagger.md)

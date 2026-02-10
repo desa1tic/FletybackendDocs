@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Código/Controllers.md",
+                "file": "05 Base de Datos/DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controllers"
+              "title": "DB"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Código/Controllers.md",
+                "file": "05 Base de Datos/DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Controllers"
+              "title": "Backlinks for DB"
             }
           },
           {
@@ -199,13 +199,17 @@
   },
   "active": "08daec72cc1bfffd",
   "lastOpenFiles": [
+    "03 API's/Login Swagger.md",
+    "03 API's/Diseño y Documentación de API’s.md",
     "_sidebar.md",
+    "05 Base de Datos/DB.md",
+    "05 Base de Datos",
+    "04 Código/Controllers.md",
     "01 Generalidades/Admin.md",
     "01 Generalidades/Archivos Clave.md",
     "01 Generalidades/Stack Tecnologico.md",
     "01 Generalidades/Situación actual.md",
     "01 Generalidades/Descripción General de Arquitectura.md",
-    "03 API's/Login Swagger.md",
     "02 Casos de uso/Casos de Uso.md",
     "README.md",
     "04 Código/Routes.md",
@@ -223,21 +227,17 @@
     "04 Código/Models.md",
     "04 Código/Services.md",
     "04 Código/Trip Service.md",
-    "04 Código/Controllers.md",
     "04 Código/Admin_Controller/Type_Capacity.md",
     "04 Código/Admin_Controller/Truck.md",
     "04 Código/Admin_Controller/Transaction_History.md",
     "04 Código/Controller_Api_Partner/Selects_Controller.md",
-    "04 Código/Controller_Api_Partner_Select/Selects_Controller.md",
     "04 Código/Controller_Api_Partner",
     "04 Código/Controller_Api_Partner_Select",
-    "04 Código/Provider_Controller/Trip.md",
     "04 Código/Provider_Controller",
     "04 Código/Payment_Controller",
     "log.json",
     "04 Código/Controller-Principal",
     "02 Casos de uso/Casos de Uso",
-    "Casos de Uso",
-    "02 Casos de uso"
+    "Casos de Uso"
   ]
 }
