@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4d2473c03101c5b",
+        "id": "9a0e3ca40882976b",
         "type": "tabs",
         "children": [
           {
-            "id": "f41e4468301832b9",
+            "id": "771620ec13f53b37",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -151,16 +151,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 API's/Diseño y Documentación de API’s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diseño y Documentación de API’s"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,14 +177,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "f41e4468301832b9",
+  "active": "771620ec13f53b37",
   "lastOpenFiles": [
-    "03 API's/Swagger/Providers/get-provider-detail-sw.md",
     "03 API's/Diseño y Documentación de API’s.md",
+    "03 API's/Swagger/Providers/upload-document-provider-sw.md",
+    "03 API's/Swagger/Providers/udpate-vehicle-detail-sw.md",
+    "03 API's/Swagger/Providers/udpate-provider-sw.md",
+    "03 API's/Swagger/Providers/provider-add-vehicle-sw.md",
+    "03 API's/Swagger/Providers/logout-provider-sw.md",
+    "03 API's/Swagger/provider-add-vehicle-sw.md",
+    "03 API's/Swagger/Providers/login-provider-sw.md",
+    "03 API's/Swagger/Providers/get-provider-docuemnt-sw.md",
+    "03 API's/Swagger/Providers/get-list-vehicle-sw.md",
+    "03 API's/Swagger/Providers/get-provider-detail-sw.md",
     "03 API's/Swagger/Usuarios/type-list-selectin-country-sw.md",
     "03 API's/Swagger/Usuarios/user-trip-detail-sw.md",
     "03 API's/Swagger/Usuarios/get-trip-status-sw.md",
-    "03 API's/Swagger/Providers/get-provider-docuemnt-sw.md",
     "03 API's/Swagger/Providers/create-provider-sw.md",
     "03 API's/Swagger/Providers",
     "03 API's/Swagger/Usuarios/set-home-address-sw.md",
@@ -198,14 +206,6 @@
     "03 API's/Swagger/Usuarios/provaider-detail-info-sw.md",
     "03 API's/Swagger/Usuarios/pay-tip-payment-sw.md",
     "03 API's/Swagger/Usuarios/log-out-sw.md",
-    "03 API's/Swagger/Usuarios/login-user-sw.md",
-    "03 API's/Swagger/Usuarios/get-wallet-history-sw.md",
-    "03 API's/Swagger/Usuarios/get-user-setting-detail-sw.md",
-    "03 API's/Swagger/Usuarios/get-user-invoice-sw.md",
-    "03 API's/Swagger/Usuarios/get-user-document-sw.md",
-    "03 API's/Swagger/Usuarios/get-user-detail-sw.md",
-    "03 API's/Swagger/Usuarios/get-referal-credit-sw.md",
-    "03 API's/Swagger/Usuarios/get-provider-lat-long-sw.md",
     "03 API's/Usuarios",
     "03 API's/Swagger/Usuarios/aceppe-reject-request-sw",
     "03 API's/Swagger-wui",
