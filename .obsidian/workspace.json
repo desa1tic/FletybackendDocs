@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a6a3abf99d067d4",
+        "id": "c4d2473c03101c5b",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9f9dfa8d56a427",
+            "id": "f41e4468301832b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 API's/Swagger/Usuarios/get-trip-status-sw.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "get-trip-status-sw"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 API's/Swagger/Usuarios/get-trip-status-sw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for get-trip-status-sw"
+              "title": "Backlinks"
             }
           },
           {
@@ -182,39 +177,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a9f9dfa8d56a427",
+  "active": "f41e4468301832b9",
   "lastOpenFiles": [
-    "03 API's/Swagger/Usuarios/get-stripe-payment-sw.md",
-    "03 API's/Swagger/Usuarios/get-trip-status-sw.md",
+    "03 API's/Swagger/Providers/get-provider-detail-sw.md",
     "03 API's/Diseño y Documentación de API’s.md",
-    "03 API's/Swagger/Usuarios/forgot-password-sw.md",
-    "03 API's/Swagger/Usuarios/feature-trip-user-sw.md",
-    "03 API's/Swagger/Usuarios/delete-promotion-code-sw.md",
-    "03 API's/Swagger/Usuarios/delete-metodo-pago-sw.md",
-    "03 API's/Swagger/Usuarios/delete-favorite-provider-sw.md",
-    "03 API's/Swagger/Usuarios/delete-emergency-contact-sw.md",
-    "03 API's/Swagger/Usuarios/create-trip-sw.md",
-    "03 API's/Swagger/Usuarios/create-promotion-sw.md",
-    "03 API's/Swagger/Usuarios/change-wallet-status-sw.md",
-    "03 API's/Swagger/Usuarios/change-payment-type-sw.md",
-    "03 API's/Swagger/Usuarios/cancel-trip-sw.md",
-    "03 API's/Swagger/Usuarios/apply-referal-code-sw.md",
-    "03 API's/Swagger/Usuarios/add-wallet-amount-sw.md",
-    "03 API's/Swagger/Usuarios/add-meto-de-pago-sw.md",
-    "03 API's/Swagger/Usuarios/add-favorite-provider-sw.md",
-    "03 API's/Swagger/Usuarios/add-emergency-contact-sw.md",
-    "03 API's/Swagger/Usuarios/aceppe-reject-request-sw.md",
-    "03 API's/Login Swagger.md",
-    "04 Código/Routes.md",
-    "03 API's/Usuarios/aceppe-reject-request-sw.md",
+    "03 API's/Swagger/Usuarios/type-list-selectin-country-sw.md",
+    "03 API's/Swagger/Usuarios/user-trip-detail-sw.md",
+    "03 API's/Swagger/Usuarios/get-trip-status-sw.md",
+    "03 API's/Swagger/Providers/get-provider-docuemnt-sw.md",
+    "03 API's/Swagger/Providers/create-provider-sw.md",
+    "03 API's/Swagger/Providers",
+    "03 API's/Swagger/Usuarios/set-home-address-sw.md",
+    "03 API's/Swagger/Usuarios/Set-destinantion-sw.md",
+    "03 API's/Swagger/Usuarios/set-defaul-payment-sw.md",
+    "03 API's/Swagger/Usuarios/send-sms-emerency-contact-sw.md",
+    "03 API's/Swagger/Usuarios/send-paystack-required-detail-sw.md",
+    "03 API's/Swagger/Usuarios/search-provider-sw.md",
+    "03 API's/Swagger/Usuarios/register-user-sw.md",
+    "03 API's/Swagger/Usuarios/provaider-service-sw.md",
+    "03 API's/Swagger/Usuarios/provaider-detail-info-sw.md",
+    "03 API's/Swagger/Usuarios/pay-tip-payment-sw.md",
+    "03 API's/Swagger/Usuarios/log-out-sw.md",
+    "03 API's/Swagger/Usuarios/login-user-sw.md",
+    "03 API's/Swagger/Usuarios/get-wallet-history-sw.md",
+    "03 API's/Swagger/Usuarios/get-user-setting-detail-sw.md",
+    "03 API's/Swagger/Usuarios/get-user-invoice-sw.md",
+    "03 API's/Swagger/Usuarios/get-user-document-sw.md",
+    "03 API's/Swagger/Usuarios/get-user-detail-sw.md",
+    "03 API's/Swagger/Usuarios/get-referal-credit-sw.md",
+    "03 API's/Swagger/Usuarios/get-provider-lat-long-sw.md",
     "03 API's/Usuarios",
-    "03 API's/Swagger-wui/aceppe-reject-request-sw.md",
     "03 API's/Swagger/Usuarios/aceppe-reject-request-sw",
     "03 API's/Swagger-wui",
     "03 API's/Swagger/Usuarios",
     "03 API's/Swagger",
-    "01 Generalidades/Admin.md",
-    "02 Casos de uso/Casos de Uso.md",
     "05 Base de Datos",
     "Pasted image 20260202093133.png",
     "Pasted image 20260202092837.png",
@@ -222,7 +218,6 @@
     "Pasted image 20260202092305.png",
     "03 Código",
     "04 Código/Controller_Api_Partner",
-    "04 Código/Controller_Api_Partner_Select",
-    "04 Código/Provider_Controller"
+    "04 Código/Controller_Api_Partner_Select"
   ]
 }
