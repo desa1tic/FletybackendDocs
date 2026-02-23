@@ -1353,7 +1353,7 @@ El modelo se utiliza para aplicar una **tarifa plana** entre dos puntos geográf
 | `updated_at`                 | Date     | Date.now | Fecha de la última actualización.                          |
 
 
-### Mapeo de Módelo vs Colecciones en Base de Datos
+### Mapeo de Modelo vs Colecciones en Base de Datos
 
 | Nombre de Modelos         | Nombre de colecciones      |
 | :------------------------ | :------------------------- |
