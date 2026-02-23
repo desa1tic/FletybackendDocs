@@ -93,4 +93,4 @@
 
 
 * **💻 Base de Datos
-   * [Base de Datos Actual](05%20Base%20de%20Datos/DB.md)
+   * [Base de Datos Actual](05%20Base%20de%20Datos/Base%20de%20Datos%20Actual.md)
