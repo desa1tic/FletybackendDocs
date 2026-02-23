@@ -846,7 +846,7 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 ```
 
-### Payment Transaction - Collections
+### Payment Transactions - Collections
 
 ```json
 {
@@ -991,7 +991,7 @@ A continuación se muestra la definición de las colecciones existentes en el es
 
 ```
 
-### Provider Vehicle Document
+### Provider Vehicle Documents - Collections
 
 ```json
 {
@@ -1013,7 +1013,7 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 
 ```
-### Provider Weekly Earning
+### Provider Weekly Earning - Collections
 
 ```json
 {
@@ -1059,7 +1059,7 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 ```
 
-### Provider
+### Providers - Collections
 
 ```json
 {
@@ -1133,7 +1133,7 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 ```
 
-### Reviews
+### Reviews - Collections
 
 ```json
 {
