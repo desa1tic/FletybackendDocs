@@ -270,7 +270,44 @@ A continuación se muestra la definición de las colecciones existentes en el es
 
 ### Bank Code - Collections
 ```json
+{
 
+  "_id": { "$oid": "67acc18b1687820efdc9c3d1" },
+  "code": "String",
+  "name": "String",
+  "countryId": { "$oid": "631287b4a0d46062285af87e" },
+  "created_at": "timestamp",
+  "updated_at": "timestamp"
+}
+```
+
+### Cargos -Collections
+
+```json
+{
+  "_id": {
+    "$oid": "67cef51aad7c8a6869edf4e4"
+  },
+  "cargoTypeId": {
+    "$oid": "6333a7dc6077a18f401066f3"
+  },
+  "cargoDetails": [
+    {
+      "totalWeight": "Number",
+      "totalVolume": "Number",
+      "pickupDate": "timestamp",
+      "pickupTime": "String",
+      "deliveryDate": "timestamp",
+      "deliveryTime": "String"
+    }
+  ],
+  "cargoPhotos": [
+    "Array"
+  ],
+  "description": "String",
+  "createdAt": "timestamp",
+  "updatedAt": "timestamp"
+}
 ```
 
 ### Cards - Collections
@@ -290,6 +327,19 @@ A continuación se muestra la definición de las colecciones existentes en el es
   "updated_at": "timestamp"
 }
 
+```
+
+### Causes - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "68cc4480835bcfcbcaf5c77d"
+  },
+  "name": "String",
+  "createdAt": "timestamp",
+  "updatedAt": "timestamp"
+}
 ```
 
 ### Cities - Collections
@@ -337,6 +387,30 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 
 ```
+
+### Chats - Collections
+```json
+{
+  "_id": {
+    "$oid": "68b712212045cd81cf973c56"
+  },
+  "referenceId": {
+    "$oid": "68b4b38258ecdba30ec54111"
+  },
+  "onModel": "String",
+  "participants": [
+    {
+      "participantId": {
+        "$oid": "65d8f1e2a3c4b5d6e7f89355"
+      },
+      "participantType": "String"
+    }
+  ],
+  "createdAt": "timestamp",
+  "updatedAt": "timestamp"
+}
+```
+
 
 ### City to Cities - Collections
 
@@ -540,6 +614,25 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 ```
 
+### Deleted Users - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "68ec6907b9b677097c1ebb94"
+  },
+  "userId": {
+    "$oid": "68ec28e211fa7fa15bf53950"
+  },
+  "name": "String",
+  "email": "String",
+  "phoneNumber": "String",
+  "provider": "String",
+  "reason": "String",
+  "createdAt": "timestamp",
+  "updatedAt": "timestamp"
+}
+```
 ### Dispatchers - Collections
 
 ```json
@@ -586,6 +679,85 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 ```
 
+### Event Actions - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "697b8278ecfb245cb545c778"
+  },
+  "name": "String",
+  "eventTypeId": {
+    "$oid": "697b8278ecfb245cb545c777"
+  }
+}
+```
+
+### Event Logs - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "697a599338ef8e52382391e6"
+  },
+  "userId": {
+    "$oid": "66757436f68de9c257742359"
+  },
+  "action": "String",
+  "category": "String",
+  "ts": "timestamp",
+  "jobId": "String",
+  "meta": {
+    "username": "String",
+    "email": "String",
+    "date": "timestamp"
+  }
+}
+```
+
+### Event types - Collections
+
+```json
+{
+  "_id": { "$oid": "697b8278ecfb245cb545c777" },
+  "name": "String"
+}
+```
+
+### Exchange Rate - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "67d0f7cb630df60bddae8ead"
+  },
+  "date": "timestamp",
+  "currency": "String",
+  "baseCurrency": "String",
+  "rate": "Number",
+  "countryId": {
+    "$oid": "631287b4a0d46062285af87e"
+  },
+  "created_at": "timestamp",
+  "updated_at": "timestamp"
+}
+```
+
+### Identity Counters - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "630ddc3c3a2b2284aea9b74e"
+  },
+  "model": "String",
+  "field": "String",
+  "count": "Number"
+}
+```
+
+
+
 ### Helpers - Collections
 
 ```json
@@ -627,6 +799,28 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 
 ```
+
+### Incidents - Collections
+```json
+{
+  "_id": {
+    "$oid": "687556096b63223de9eecdf1"
+  },
+  "tripId": "String",
+  "title": "String",
+  "description": "String",
+  "incidentDate": "timestamp",
+  "clientName": "String",
+  "status": "String",
+  "cause": "String",
+  "createdBy": "String",
+  "messages": [
+    "Array"
+  ],
+  "createdAt": "timestamp"
+}
+```
+
 ### Inbox Notifications - Collections
 
 ```json
@@ -737,6 +931,26 @@ A continuación se muestra la definición de las colecciones existentes en el es
 
 ```
 
+### Messages - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "68791072a83660df34fc0ba2"
+  },
+  "incidentId": {
+    "$oid": "6875586efdeec3d7b07cb28d"
+  },
+  "senderId": {
+    "$oid": "676ea25b71a26f3118eb535b"
+  },
+  "senderName": "String",
+  "text": "String",
+  "timestamp": "timestamp"
+}
+```
+
+
 ### Partner Vehicle Documents - Collections
 
 ```json
@@ -846,6 +1060,25 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 ```
 
+### Payment Methods - Collections
+```json
+{
+  "_id": {
+    "$oid": "67acb4741ea4845a56a2a73d"
+  },
+  "name": "String",
+  "type": "String",
+  "countryId": {
+    "$oid": "631287b4a0d46062285af87e"
+  },
+  "paymentData": {
+    "status": "Boolean"
+  },
+  "created_at": "timestamp",
+  "updated_at": "timestamp"
+}
+```
+
 ### Payment Transactions - Collections
 
 ```json
@@ -868,6 +1101,18 @@ A continuación se muestra la definición de las colecciones existentes en el es
   "updated_at": "timestamp"
 }
 ```
+
+### Pricing Rules - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "6806854e164abd11dcd945b0"
+  },
+  "policy_insurance_percentage": "Number"
+}
+```
+
 
 ### Promo Codes - Collections
 
@@ -1112,6 +1357,51 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 ```
 
+### Request Trip Movings
+```json
+{
+  "_id": {
+    "$oid": "67ec9e6dfb2f5e5f9b82fab0"
+  },
+  "unique_id": "Number",
+  "size": "String",
+  "description": "String",
+  "items_quantity": "Number",
+  "status": "String",
+  "need_packaging": "Boolean",
+  "need_helpers": "Boolean",
+  "pickup_details": {
+    "address": "String",
+    "location": [
+      {
+        "address": "String",
+        "location": [
+          "Number",
+          "Number"
+        ],
+        "_id": {
+          "$oid": "67ec9e6dfb2f5e5f9b82fab1"
+        }
+      }
+    ]
+  },
+  "stops_details": [
+    "Array"
+  ],
+  "delivery_details": {
+    "address": "String",
+    "location": [
+      {
+        "_id": {
+          "$oid": "67ec9e6dfb2f5e5f9b82fab3"
+        }
+      }
+    ]
+  },
+  "create_at": "timestamp"
+}
+```
+
 ### User Request Corporate
 ```json
 {
@@ -1151,6 +1441,21 @@ A continuación se muestra la definición de las colecciones existentes en el es
   "provider_id": { "$oid": "65d8f1e2a3c4b5d6e7f89555" },
   "created_at": "timestamp",
   "updated_at": "timestamp"
+}
+```
+
+### Services - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "67cef2fee201b0deebc191b8"
+  },
+  "title": "String",
+  "identifier": "String",
+  "icon": "String",
+  "createdAt": "timestamp",
+  "updatedAt": "timestamp"
 }
 ```
 
@@ -1782,6 +2087,61 @@ A continuación se muestra la definición de las colecciones existentes en el es
 }
 ```
 
+### Tripquotations - Collections
+```json
+{
+  "_id": {
+    "$oid": "68074aa11ebe0d051b355508"
+  },
+  "origin": {
+    "lat": "Number",
+    "long": "Number"
+  },
+  "destination": {
+    "lat": "Number",
+    "long": "Number"
+  },
+  "tripId": {
+    "$oid": "6487a9b0e089c7a9b2f8a1c4"
+  },
+  "userId": {
+    "$oid": "67bc7581c8895882f94bcfc5"
+  },
+  "cost": "Number",
+  "deletedAt": "null",
+  "createdAt": "Date",
+  "updatedAt": "Date"
+}
+```
+
+### Truck Types - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "67ee628e01e648a0f2392f11"
+  },
+  "capacity_kg": "String",
+  "capacity_m3": "String",
+  "servicesIds": [
+    {
+      "$oid": "66bc14ccfd6d73cc2026386c"
+    },
+    {
+      "$oid": "66bc147efd6d73cc2026386b"
+    },
+    {
+      "$oid": "66bc138efd6d73cc2026386a"
+    },
+    {
+      "$oid": "66bc1542fd6d73cc2026386d"
+    }
+  ],
+  "types": "String",
+  "description": "String"
+}
+```
+
 ### Type Capacities - Collections
 
 ```json
@@ -1816,6 +2176,20 @@ A continuación se muestra la definición de las colecciones existentes en el es
   "updated_at": "timestamp"
 }
 
+```
+
+### Type Vehicle Service
+
+```json
+{
+  "_id": {
+    "$oid": "661741d092e12496e9967e9d"
+  },
+  "name_english": "String",
+  "name_spanish": "String",
+  "created_at": "timestamp",
+  "updated_at": "timestamp"
+}
 ```
 
 ### Type Services - Collections
@@ -1979,6 +2353,49 @@ A continuación se muestra la definición de las colecciones existentes en el es
 
 ```
 
+### Vehicle Auto Selections - Collections
+
+```json
+{
+  "_id": {
+    "$oid": "661dc4b6215508ee44855105"
+  },
+  "capacity_id": {
+    "$oid": "6332c8cf821da2a600173aee"
+  },
+  "type_id": {
+    "$oid": "63158d0aa0d46062285c15ab"
+  },
+  "model_id": {
+    "$oid": "639dd426c15d67f152e149f7"
+  },
+  "type_vehicle_service_id": {
+    "$oid": "661dcaf0215508ee4485510a"
+  },
+  "name": "String",
+  "boxes": "Boolean",
+  "pallets": "Boolean",
+  "bulk": "Boolean",
+  "moving": "Boolean",
+  "new_product": "Boolean",
+  "boxes_selection": {
+    "cubic_meters": "Number",
+    "capacity_weight": "Number"
+  },
+  "palettes_selection": {
+    "amount": "Number"
+  },
+  "bulk_selection": {
+    "sand": "Boolean",
+    "debris_trash": "Boolean"
+  },
+  "new_product_selection": {
+    "refrigerators": "Boolean",
+    "furniture": "Boolean"
+  }
+}
+```
+
 ### Wallet Histories - Collections
 
 ```json
@@ -2028,3 +2445,14 @@ A continuación se muestra la definición de las colecciones existentes en el es
   "updated_at": "timestamp"
 }
 ```
+
+
+**Nota:** Existen 6 colecciones en la base de datos cuya estructura de documento y/o colección se desconoce, a continuación se listan:
+
+1. Clients
+2. Corporate Routes
+3. Models
+4. Thermometers
+5. Travel Pricing
+6. User Onboarding
+
