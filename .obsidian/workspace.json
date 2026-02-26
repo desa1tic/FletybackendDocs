@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "4633fee13480926c",
@@ -185,8 +185,14 @@
   },
   "active": "693131f0c13166c5",
   "lastOpenFiles": [
-    "04 Código/Models.md",
+    "Grafo-flety.png",
+    "Grafo-flety.jpeg",
+    "Grafo-flety.png.jpeg",
     "05 Base de Datos/Base de Datos Actual.md",
+    "Grafo-flety.md",
+    "04 Código/Routes.md",
+    "04 Código/Controllers.md",
+    "04 Código/Models.md",
     "_sidebar.md",
     "05 Base de Datos/DB.md",
     "03 API's/Swagger/Providers/add-bank-use-payu-sw.md",
@@ -208,10 +214,6 @@
     "03 API's/Swagger/Providers/provider-update-type-sw.md",
     "03 API's/Swagger/Providers/provider-trip-history-sw.md",
     "03 API's/Swagger/Providers/provider-give-rating-sw.md",
-    "03 API's/Swagger/Providers/call-to-user-sw.md",
-    "03 API's/Swagger/Providers/add-wallet-amount-sw.md",
-    "03 API's/Swagger/Providers/provider-cancel-trip-sw.md",
-    "03 API's/Swagger/Providers/provider-add-vehicle-sw.md",
     "03 API's/Swagger/Providers/{{URL}}",
     "Pasted image 20260202092310.png",
     "03 API's/Swagger/Providers",
