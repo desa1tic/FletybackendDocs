@@ -2,8 +2,9 @@
 ### Grafo Relacional
 EL objetivo es mostrar como se encuentran distribuidas y asociadas las distintas colecciones de documentos en la base de datos Actual
 
-![Grafo flety|1500](../Grafo-flety.svg)
+![Grafo flety](../Grafo-flety.svg)
 
+[🔍 Expandir imagen](https://desa1tic.github.io/FletybackendDocs/Grafo-flety.svg)
 A continuación se muestra la definición de las colecciones existentes en el esquema flety_dev 
  de la base de datos en Mongo del sistema.
 
