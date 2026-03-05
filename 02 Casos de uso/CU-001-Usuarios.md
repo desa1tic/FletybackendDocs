@@ -5,14 +5,14 @@ Este caso de uso describe el proceso mediante el cual un usuario registrado acce
 ---
 
 ### 📋 Información General
-| Sección | Descripción |
-| :--- | :--- |
-| **ID** | CU-001-ADM |
-| **Caso de Uso** | Inicio de Sesión (login) |
-| **Actor Principal** | Usuario |
-| **Actores Secundarios** | Software |
-| **Objetivo** | Permitir al Usuario acceder al sistema, previa validación de sus credenciales |
-| **Prioridad** | Alta |
+| Sección                 | Descripción                                                                   |
+| :---------------------- | :---------------------------------------------------------------------------- |
+| **ID**                  | CU-001-ADM                                                                    |
+| **Caso de Uso**         | Inicio de Sesión (login) - Administrador                                      |
+| **Actor Principal**     | Usuario                                                                       |
+| **Actores Secundarios** | Software                                                                      |
+| **Objetivo**            | Permitir al Usuario acceder al sistema, previa validación de sus credenciales |
+| **Prioridad**           | Alta                                                                          |
 
 ### 🛠️ Precondiciones del Sistema
 * El usuario debe estar registrado en el sistema.
@@ -56,14 +56,14 @@ Este caso de uso describe el proceso mediante el cual un usuario registrado acce
 
 ## 📋 Información General
 
-| Sección | Descripción |
-| :--- | :--- |
-| **ID** | CU-001-CLI |
-| **Caso de Uso** | Inicio de Sesión (login) |
-| **Actor Principal** | Usuario |
-| **Actores Secundarios** | Software |
-| **Objetivo** | Permitir al Usuario acceder al sistema, previa validación de sus credenciales. |
-| **Prioridad** | Alta |
+| Sección                 | Descripción                                                                    |
+| :---------------------- | :----------------------------------------------------------------------------- |
+| **ID**                  | CU-001-CLI                                                                     |
+| **Caso de Uso**         | Inicio de Sesión (login) - Usuario                                             |
+| **Actor Principal**     | Usuario                                                                        |
+| **Actores Secundarios** | Software                                                                       |
+| **Objetivo**            | Permitir al Usuario acceder al sistema, previa validación de sus credenciales. |
+| **Prioridad**           | Alta                                                                           |
 
 ---
 

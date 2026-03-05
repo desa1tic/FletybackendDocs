@@ -6,14 +6,14 @@ Este caso de uso describe el procedimiento mediante el cual un usuario solicita 
 
 ## 📋 Información General
 
-| Sección | Descripción |
-| :--- | :--- |
-| **ID** | CU-002-ADM |
-| **Caso de Uso** | Recuperar contraseña |
-| **Actor Principal** | Usuario |
-| **Actores Secundarios** | Software |
-| **Objetivo** | Permitir que un usuario registrado solicite un enlace o código temporal para ingresar al sistema, recuperar o cambiar su contraseña. |
-| **Prioridad** | Alta |
+| Sección                 | Descripción                                                                                                                          |
+| :---------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| **ID**                  | CU-002-ADM                                                                                                                           |
+| **Caso de Uso**         | Recuperar contraseña - Administrador                                                                                                 |
+| **Actor Principal**     | Usuario                                                                                                                              |
+| **Actores Secundarios** | Software                                                                                                                             |
+| **Objetivo**            | Permitir que un usuario registrado solicite un enlace o código temporal para ingresar al sistema, recuperar o cambiar su contraseña. |
+| **Prioridad**           | Alta                                                                                                                                 |
 
 ---
 
@@ -67,14 +67,14 @@ Este caso de uso describe el proceso mediante el cual un usuario que ha olvidado
 
 ## 📋 Información General
 
-| Sección | Descripción |
-| :--- | :--- |
-| **ID** | CU-002-CLI |
-| **Caso de Uso** | Recuperar contraseña |
-| **Actor Principal** | Usuario |
-| **Actor Secundario** | Software |
-| **Objetivo** | Permitir que un usuario registrado solicite un enlace o código temporal para ingresar al sistema, recuperar o cambiar su contraseña. |
-| **Prioridad** | Alta |
+| Sección              | Descripción                                                                                                                          |
+| :------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| **ID**               | CU-002-CLI                                                                                                                           |
+| **Caso de Uso**      | Recuperar contraseña - Usuario                                                                                                       |
+| **Actor Principal**  | Usuario                                                                                                                              |
+| **Actor Secundario** | Software                                                                                                                             |
+| **Objetivo**         | Permitir que un usuario registrado solicite un enlace o código temporal para ingresar al sistema, recuperar o cambiar su contraseña. |
+| **Prioridad**        | Alta                                                                                                                                 |
 
 ---
 

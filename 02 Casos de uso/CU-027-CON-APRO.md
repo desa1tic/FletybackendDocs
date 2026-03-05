@@ -24,12 +24,12 @@ Este caso de uso describe la funcionalidad que permite obtener una visión compl
 
 ### 🔄 Flujo del Sistema
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) Carga la información de los conductores en línea; item, nombre, solicitud, completado, cancelado, viaje asignado, ciudad, modelo camión, estatus y aliados. |
-| 2) Consulta la información mostrada. | |
-| 3) El usuario puede filtrar los datos mostrados en pantalla. | |
-| **Fin** | |
+| Actor Principal (Usuario)                                    | Actor Secundario (Sistema)                                                                                                                                             |
+| :----------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                              | 1) Carga la información de los conductores en línea; item, nombre, solicitud, completado, cancelado, viaje asignado, ciudad, modelo camión, estatus aliado y opciones. |
+| 2) Consulta la información mostrada.                         |                                                                                                                                                                        |
+| 3) El usuario puede filtrar los datos mostrados en pantalla. |                                                                                                                                                                        |
+| **Fin**                                                      |                                                                                                                                                                        |
 
 ---
 

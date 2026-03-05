@@ -28,18 +28,18 @@ Este caso de uso describe la funcionalidad de supervisión de los viajes entrant
 
 
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) Ejecuta una consulta y muestra un listado de viajes entrantes. |
-| | 2) Se visualiza: Fecha Creación, Usuario, Unidad, Ruta, Detalles, Estatus y Total de Pagos. |
-| 3) Filtra resultados por ítems, fecha y rango | 4) El sistema actualiza la lista según los filtros. |
-| 5) Selecciona **Ver Mapa** | 6) Redirige a la vista de geolocalización (**CU-015-MAP**). |
-| 7) Selecciona **Cancelar viaje** | 8) Muestra alerta para confirmar la cancelación. |
-| 9) Selecciona **Ver detalle** | 10) Muestra un popup con el detalle técnico del viaje. |
-| 11) Selecciona **Editar información** | 12) Redirige a la vista de edición de datos (**CU-016-EDV**). |
-| 13) Gestiona Pagos (Cliente/Aliado/Preliquidar) | 14) Muestra popups de confirmación para cada acción financiera. |
-| 15) Selecciona **Reiniciar viaje** o **Nota** | 16) Muestra popups para reiniciar o agregar notas al viaje. |
-| 17) Selecciona **Exportar CSV** | 18) Genera los datos para descarga en formato CSV. |
+| Actor Principal (Usuario)                       | Actor Secundario (Sistema)                                                                                                                             |
+| :---------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                 | 1) Ejecuta una consulta y muestra un listado de viajes entrantes.                                                                                      |
+|                                                 | 2) Se visualiza: Item, Fecha de creación, Fecha de carga, Usuario, Unidad ASignada, Ruta, Detalle del viaje, Estatus, Detalle de pago, Chat y Opciones |
+| 3) Filtra resultados por ítems, fecha y rango   | 4) El sistema actualiza la lista según los filtros.                                                                                                    |
+| 5) Selecciona **Ver Mapa**                      | 6) Redirige a la vista de geolocalización (**CU-015-MAP**).                                                                                            |
+| 7) Selecciona **Cancelar viaje**                | 8) Muestra alerta para confirmar la cancelación.                                                                                                       |
+| 9) Selecciona **Ver detalle**                   | 10) Muestra un popup con el detalle técnico del viaje.                                                                                                 |
+| 11) Selecciona **Editar información**           | 12) Redirige a la vista de edición de datos (**CU-016-EDV**).                                                                                          |
+| 13) Gestiona Pagos (Cliente/Aliado/Preliquidar) | 14) Muestra popups de confirmación para cada acción financiera.                                                                                        |
+| 15) Selecciona **Reiniciar viaje** o **Nota**   | 16) Muestra popups para reiniciar o agregar notas al viaje.                                                                                            |
+| 17) Selecciona **Exportar CSV**                 | 18) Genera los datos para descarga en formato CSV.                                                                                                     |
 
 ---
 

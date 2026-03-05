@@ -29,17 +29,17 @@ Este caso de uso describe la funcionalidad de monitoreo y gestión operativa de 
 
 
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) Ejecuta una consulta y muestra un listado de viajes activos con columnas: Fecha, Usuario, Unidad, Ruta, Detalles, Estatus y Pagos. |
-| 2) Filtra resultados por ítems, fecha o rango | 3) Actualiza la tabla dinámicamente según los criterios de búsqueda. |
-| 4) Hace click en **Ver Mapa** | 5) Redirige a la vista de geolocalización (**CU-015-MAP**). |
-| 6) Selecciona **Cancelar Viaje** | 7) Muestra alerta de confirmación antes de procesar la baja. |
-| 8) Selecciona **Ver Detalle** | 9) Despliega un Popup con la información técnica completa del viaje. |
-| 10) Selecciona **Editar Información** | 11) Redirige al formulario de edición de datos básicos (**CU-016-EDV**). |
-| 12) Gestiona Pagos (Cliente/Aliado/Preliquidar) | 13) Muestra Popups de confirmación para cada acción financiera. |
-| 14) Selecciona **Reiniciar Viaje** o **Agregar Nota** | 15) Muestra Popups para re-ejecución o registro de comentarios. |
-| 16) Selecciona **Exportar CSV** | 17) Genera y descarga el archivo con la data filtrada. |
+| Actor Principal (Usuario)                             | Actor Secundario (Sistema)                                                                                                                                                                                          |
+| :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                       | 1) Ejecuta una consulta y muestra un listado de viajes activos con columnas: Item, Fecha de craciòn, Fecha de carga, Usuario, Unidad asignada, Ruta, Detalle del viaje, Estatus, detalle del Pago, Chat y Opciones. |
+| 2) Filtra resultados por ítems, fecha o rango         | 3) Actualiza la tabla dinámicamente según los criterios de búsqueda.                                                                                                                                                |
+| 4) Hace click en **Ver Mapa**                         | 5) Redirige a la vista de geolocalización (**CU-015-MAP**).                                                                                                                                                         |
+| 6) Selecciona **Cancelar Viaje**                      | 7) Muestra alerta de confirmación antes de procesar la baja.                                                                                                                                                        |
+| 8) Selecciona **Ver Detalle**                         | 9) Despliega un Popup con la información técnica completa del viaje.                                                                                                                                                |
+| 10) Selecciona **Editar Información**                 | 11) Redirige al formulario de edición de datos básicos (**CU-016-EDV**).                                                                                                                                            |
+| 12) Gestiona Pagos (Cliente/Aliado/Preliquidar)       | 13) Muestra Popups de confirmación para cada acción financiera.                                                                                                                                                     |
+| 14) Selecciona **Reiniciar Viaje** o **Agregar Nota** | 15) Muestra Popups para re-ejecución o registro de comentarios.                                                                                                                                                     |
+| 16) Selecciona **Exportar CSV**                       | 17) Genera y descarga el archivo con la data filtrada.                                                                                                                                                              |
 
 ---
 

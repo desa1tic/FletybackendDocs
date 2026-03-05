@@ -29,17 +29,17 @@ Este caso de uso describe la funcionalidad de supervisión y planificación de s
 
 
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) Ejecuta una consulta y muestra un listado de viajes futuros con: Fecha Creación, Usuario, Unidad, Ruta, Detalles, Estatus y Pagos. |
-| 2) Filtra resultados por ítems, fecha y rango | 3) Actualiza la visualización de la lista según los filtros aplicados. |
-| 4) Hace click en **Ver Mapa** | 5) Redirige a la vista de geolocalización para visualizar la ruta proyectada (**CU-015-MAP**). |
-| 6) Selecciona **Cancelar viaje** | 7) Muestra alerta de confirmación para cancelar la programación del viaje. |
-| 8) Selecciona **Ver detalle** | 9) Muestra un popup con la información detallada de la reserva. |
-| 10) Selecciona **Editar información** | 11) Redirige a la vista de edición de datos básicos del viaje (**CU-016-EDV**). |
-| 12) Gestiona Pagos (Cliente/Aliado/Preliquidar) | 13) Muestra popups de confirmación para validar transacciones anticipadas. |
-| 14) Selecciona **Reiniciar viaje** o **Agregar nota** | 15) Muestra popups para reinicio de parámetros o registro de observaciones. |
-| 16) Selecciona **Exportar CSV** | 17) Genera y descarga el archivo con la programación de viajes en formato CSV. |
+| Actor Principal (Usuario)                             | Actor Secundario (Sistema)                                                                                                                                                                              |
+| :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                       | 1) Ejecuta una consulta y muestra un listado de viajes futuros con: Item, Fecha Creación, Fecha de carga, Usuario, Unidad asignada, Ruta, Detalle del viaje, Estatus, Detalle de Pago, Chat y Opciones. |
+| 2) Filtra resultados por ítems, fecha y rango         | 3) Actualiza la visualización de la lista según los filtros aplicados.                                                                                                                                  |
+| 4) Hace click en **Ver Mapa**                         | 5) Redirige a la vista de geolocalización para visualizar la ruta proyectada (**CU-015-MAP**).                                                                                                          |
+| 6) Selecciona **Cancelar viaje**                      | 7) Muestra alerta de confirmación para cancelar la programación del viaje.                                                                                                                              |
+| 8) Selecciona **Ver detalle**                         | 9) Muestra un popup con la información detallada de la reserva.                                                                                                                                         |
+| 10) Selecciona **Editar información**                 | 11) Redirige a la vista de edición de datos básicos del viaje (**CU-016-EDV**).                                                                                                                         |
+| 12) Gestiona Pagos (Cliente/Aliado/Preliquidar)       | 13) Muestra popups de confirmación para validar transacciones anticipadas.                                                                                                                              |
+| 14) Selecciona **Reiniciar viaje** o **Agregar nota** | 15) Muestra popups para reinicio de parámetros o registro de observaciones.                                                                                                                             |
+| 16) Selecciona **Exportar CSV**                       | 17) Genera y descarga el archivo con la programación de viajes en formato CSV.                                                                                                                          |
 
 ---
 

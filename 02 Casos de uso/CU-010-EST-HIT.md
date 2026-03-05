@@ -28,18 +28,18 @@ Este caso de uso describe la funcionalidad de consulta global del histórico de 
 
 
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) El sistema ejecuta una consulta y muestra un listado con el historial total de los viajes. |
-| | 2) Se visualiza: Fecha, Usuario, Unidad Asignada, Ruta, Detalles, Estatus y Total de Pagos. |
-| 3) Filtra resultados por ítems, fecha y rango | 4) Actualiza la tabla dinámicamente según los parámetros de búsqueda. |
-| 5) Hace click en **Ver Mapa** | 6) Redirige a la vista con carga visual de geolocalización (**CU-015-MAP**). |
-| 7) Selecciona **Cancelar viaje** | 8) Muestra alerta de confirmación para anular o cancelar el servicio seleccionado. |
-| 9) Selecciona **Ver detalle** | 10) Muestra un popup con la ficha técnica y financiera detallada del viaje. |
-| 11) Selecciona **Editar información** | 12) Redirige a la vista de edición de datos básicos (**CU-016-EDV**). |
-| 13) Gestiona Pagos (Cliente/Aliado/Preliquidar) | 14) Muestra popups de confirmación para validar las transacciones. |
-| 15) Selecciona **Reiniciar viaje** o **Nota** | 16) Muestra popups para habilitar re-ejecución o agregar comentarios. |
-| 17) Selecciona **Exportar CSV** | 18) Genera y descarga el archivo con los datos históricos filtrados. |
+| Actor Principal (Usuario)                       | Actor Secundario (Sistema)                                                                                                                             |
+| :---------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                 | 1) El sistema ejecuta una consulta y muestra un listado con el historial total de los viajes.                                                          |
+|                                                 | 2) Se visualiza: Item, Fecha de creación, Fecha de carga, Usuario, Unidad Asignada, Ruta, Detalle de viaje, Estatus, Detalle de pago, Chat y Opciones. |
+| 3) Filtra resultados por ítems, fecha y rango   | 4) Actualiza la tabla dinámicamente según los parámetros de búsqueda.                                                                                  |
+| 5) Hace click en **Ver Mapa**                   | 6) Redirige a la vista con carga visual de geolocalización (**CU-015-MAP**).                                                                           |
+| 7) Selecciona **Cancelar viaje**                | 8) Muestra alerta de confirmación para anular o cancelar el servicio seleccionado.                                                                     |
+| 9) Selecciona **Ver detalle**                   | 10) Muestra un popup con la ficha técnica y financiera detallada del viaje.                                                                            |
+| 11) Selecciona **Editar información**           | 12) Redirige a la vista de edición de datos básicos (**CU-016-EDV**).                                                                                  |
+| 13) Gestiona Pagos (Cliente/Aliado/Preliquidar) | 14) Muestra popups de confirmación para validar las transacciones.                                                                                     |
+| 15) Selecciona **Reiniciar viaje** o **Nota**   | 16) Muestra popups para habilitar re-ejecución o agregar comentarios.                                                                                  |
+| 17) Selecciona **Exportar CSV**                 | 18) Genera y descarga el archivo con los datos históricos filtrados.                                                                                   |
 
 ---
 

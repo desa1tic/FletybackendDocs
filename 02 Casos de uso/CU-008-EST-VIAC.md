@@ -29,17 +29,17 @@ Este caso de uso describe la funcionalidad de consulta y auditoría de los servi
 
 
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) Ejecuta una consulta y muestra un listado de viajes completados con columnas: Fecha, Usuario, Unidad, Ruta, Detalles, Estatus y Total Pagos. |
-| 2) Filtra resultados por ítems, fecha o rango | 3) Actualiza la tabla dinámicamente según los criterios de búsqueda. |
-| 4) Hace click en **Ver Mapa** | 5) Redirige a la vista de carga visual de la ruta en mapa (**CU-015-MAP**). |
-| 6) Selecciona **Cancelar/Anular viaje** | 7) Muestra alerta de confirmación para revertir o anular el registro. |
-| 8) Selecciona **Ver Detalle** | 9) Despliega un popup con el desglose técnico y financiero del viaje. |
-| 10) Selecciona **Editar Información** | 11) Redirige a la vista de edición de datos básicos (**CU-016-EDV**). |
-| 12) Gestiona Pagos (Cliente/Aliado/Preliquidar) | 13) Muestra popups de confirmación para la validación de cierres de caja. |
-| 14) Selecciona **Reiniciar viaje** o **Agregar nota** | 15) Muestra popups para habilitar re-ejecución o añadir comentarios de auditoría. |
-| 16) Selecciona **Exportar CSV** | 17) Genera y descarga el archivo con los datos históricos en formato CSV. |
+| Actor Principal (Usuario)                             | Actor Secundario (Sistema)                                                                                                                                                                                                |
+| :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                       | 1) Ejecuta una consulta y muestra un listado de viajes completados con columnas: item, Fecha de creación, Fecha de carga,  Usuario, Unidad Asignada, Ruta, Detalle del viaje, , Estatus Detalle del pago Chat y  opciones |
+| 2) Filtra resultados por ítems, fecha o rango         | 3) Actualiza la tabla dinámicamente según los criterios de búsqueda.                                                                                                                                                      |
+| 4) Hace click en **Ver Mapa**                         | 5) Redirige a la vista de carga visual de la ruta en mapa (**CU-015-MAP**).                                                                                                                                               |
+| 6) Selecciona **Cancelar/Anular viaje**               | 7) Muestra alerta de confirmación para revertir o anular el registro.                                                                                                                                                     |
+| 8) Selecciona **Ver Detalle**                         | 9) Despliega un popup con el desglose técnico y financiero del viaje.                                                                                                                                                     |
+| 10) Selecciona **Editar Información**                 | 11) Redirige a la vista de edición de datos básicos (**CU-016-EDV**).                                                                                                                                                     |
+| 12) Gestiona Pagos (Cliente/Aliado/Preliquidar)       | 13) Muestra popups de confirmación para la validación de cierres de caja.                                                                                                                                                 |
+| 14) Selecciona **Reiniciar viaje** o **Agregar nota** | 15) Muestra popups para habilitar re-ejecución o añadir comentarios de auditoría.                                                                                                                                         |
+| 16) Selecciona **Exportar CSV**                       | 17) Genera y descarga el archivo con los datos históricos en formato CSV.                                                                                                                                                 |
 
 ---
 

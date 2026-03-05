@@ -24,12 +24,12 @@ Este caso de uso describe el proceso mediante el cual un administrador puede mod
 
 ### 🔄 Flujo del Sistema
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) El sistema carga los datos actuales del conductor. |
-| 2) Modifica los datos del conductor (Teléfono, correo, etc.). | |
-| 3) Guarda los datos. | 4) El sistema deja persistencia de la modificación en la base de datos. |
-| **Fin** | |
+| Actor Principal (Usuario)                                                                                                     | Actor Secundario (Sistema)                                              |
+| :---------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- |
+|                                                                                                                               | 1) El sistema carga los datos actuales del conductor.                   |
+| 2) Modifica los datos del conductor; Nombre, Apellido, Email, Teléfono, Dirección, Contraseña y Fecha de creación (creado en) |                                                                         |
+| 3) Guarda los datos.                                                                                                          | 4) El sistema deja persistencia de la modificación en la base de datos. |
+| **Fin**                                                                                                                       |                                                                         |
 
 ---
 

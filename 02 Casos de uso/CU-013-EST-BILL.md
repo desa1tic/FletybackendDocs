@@ -28,11 +28,11 @@ Este caso de uso describe la gestión y supervisión de los costos asociados al 
 
 
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) El sistema ejecuta una consulta y muestra un listado con la información de los registros existentes. |
-| | 2) Se muestra: Ítem, Tipo Corporativo, Monto y Estatus. |
-| 3) Puede filtrar los resultados por Ítems de resultado, fecha y rango de fecha | 4) El sistema actualiza la lista según los filtros aplicados. |
+| Actor Principal (Usuario)                                                      | Actor Secundario (Sistema)                                                                              |
+| :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+|                                                                                | 1) El sistema ejecuta una consulta y muestra un listado con la información de los registros existentes. |
+|                                                                                | 2) Se muestra: Ítem, Tipo, Corporativo, Monto, Estatus, Fecha de creación y Opciones                    |
+| 3) Puede filtrar los resultados por Ítems de resultado, fecha y rango de fecha | 4) El sistema actualiza la lista según los filtros aplicados.                                           |
 
 ---
 

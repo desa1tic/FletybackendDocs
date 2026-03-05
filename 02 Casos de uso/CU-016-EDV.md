@@ -21,7 +21,7 @@ Este caso de uso describe el procedimiento para modificar los datos básicos de 
 ## 🛠️ Precondiciones del Sistema
 * El usuario inició sesión de forma exitosa (**CU-001-ADM** / **CU-001-CLI**).
 * El usuario cuenta con el rol y los permisos pertinentes para la edición de registros.
-* El usuario proviene de una acción de edición en: **CU-007-EST-VIAA**, **CU-008-EST-VIAC**, **CU-009-EST-VIAF** o **CU-014-EST-VIAE**.
+* El usuario proviene de una acción de edición en: **CU-007-EST-VIAA**, **CU-008-EST-VIAC**, **CU-009-EST-VIAF** o **CU-014-EST-VIAE**, **CU-010-EST-HIT**
 
 ---
 
