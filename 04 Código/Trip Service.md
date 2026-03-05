@@ -1,5 +1,5 @@
 Descripción del Servicio:
-Servicio encargado de la lógica de negocio relacionada con los viajes y  cálculos de tarifas por distancia, validación de coordenadas geográficas  y ajustes de precios según el tipo de transporte, servicio y region.
+Servicio encargado de la lógica de negocio relacionada con los viajes y  cálculos de tarifas por distancia, validación de coordenadas geográficas  y ajustes de precios según el tipo de transporte, servicio y región.
 
 ### Función: calculateTariff (Async)
 

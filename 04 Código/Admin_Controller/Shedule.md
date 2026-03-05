@@ -11,3 +11,4 @@ Este controlador se encarga de la gestión de los viajes programados . Su funci�
 | :--------------------------------- | :---- | :---------------------------------- | :------------ | :------------------------------------------------------------------------------------- |
 | `Schedules_list`                   | Async | `req.body` (filtros), `req.session` | Vista HTML    | Recupera el listado de viajes programados que aún no se han ejecutado.                 |
 | `genetare_schedules_request_excel` | Async | `req.body` (filtros)                | Archivo Excel | Procesa la lista de reservas futuras filtradas y genera un reporte en formato `.xlsx`. |
+|                                    |       |                                     |               |                                                                                        |

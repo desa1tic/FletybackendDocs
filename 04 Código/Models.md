@@ -7,7 +7,7 @@ La capa de **Models** ( `models/` ) encapsula la estructura de los datos y  defi
 - **Abstracción de Datos:** Permite que los **Services** interactúen con la base de datos mediante objetos de JavaScript, ocultando la complejidad de las consultas directas.
 - **Relaciones entre colecciones:** Gestiona los vínculos entre entidades 
 
-A continuación se describen los modelos existentes en la fuente del sistema.
+A continuación, se describen los modelos existentes en la fuente del sistema.
 
 ### Modelo - Admin_settings.js
 
