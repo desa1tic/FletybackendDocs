@@ -24,15 +24,16 @@ Este caso de uso describe el proceso para registrar una nueva categoría de veh�
 
 ### 🔄 Flujo del Sistema
 
-| Actor Principal (Usuario) | Actor Secundario (Sistema) |
-| :--- | :--- |
-| | 1) El sistema presenta un formulario en blanco con valores por defecto (ej. Negocio en "ON" y switches en estado inactivo). |
-| 2) El usuario ingresa el "Nombre de tipo 1" (Nombre comercial) y el "Nombre de tipo 2" (Descripción secundaria o capacidad). | |
-| 3) Se asigna un "Número de secuencia" para determinar la posición del nuevo vehículo en la interfaz del cliente. | |
-| 4) El usuario activa los interruptores necesarios según las características del vehículo: **¿Tiene Capacidad?**, **¿Tiene Modelo?**, **¿Tiene servicios?** y **¿Tiene especificaciones?**. | |
-| 5) El usuario carga los tres archivos de imagen obligatorios. | |
-| 6) El usuario presiona el botón "Enviar". | 7) El sistema deja persistencia de los datos y redirige a **CU-049-SERV-TIPO**. |
-| **Fin** | |
+| Actor Principal (Usuario)                                                                                                                                                                  | Actor Secundario (Sistema)                                                                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                            | 1) El sistema presenta un formulario en blanco con valores por defecto (ej. Negocio en "ON" y switches en estado inactivo). |
+| 2) El usuario ingresa el "Nombre de tipo 1" (Nombre comercial) y el "Nombre de tipo 2" (Descripción secundaria o capacidad).                                                               |                                                                                                                             |
+| 3) Se asigna un "Número de secuencia" para determinar la posición del nuevo vehículo en la interfaz del cliente.                                                                           |                                                                                                                             |
+| 4) El usuario activa los interruptores necesarios según las características del vehículo: **¿Tiene Capacidad?**, **¿Tiene Modelo?**, **¿Tiene servicios?** y **¿Tiene especificaciones?**. |                                                                                                                             |
+| 5) El usuario carga los tres archivos de imagen obligatorios.                                                                                                                              |                                                                                                                             |
+| 6) Indica información de capacidad, servicio y modelos                                                                                                                                     |                                                                                                                             |
+| 7) El usuario presiona el botón "Enviar".                                                                                                                                                  | 8) El sistema deja persistencia de los datos y redirige a **CU-049-SERV-TIPO**.                                             |
+| **Fin**                                                                                                                                                                                    |                                                                                                                             |
 
 ---
 
